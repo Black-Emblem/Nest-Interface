@@ -1,0 +1,7876 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.054993,-9.428,0 ]
+    },
+    "properties": {
+    "id":3,
+    "ident":"AGGH",
+    "type":"large_airport",
+    "name":"Honiara International Airport",
+    "continent":"OC",
+    "iso_country":"SB",
+    "iso_region":"SB-GU",
+    "municipality":"Honiara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.2200012,-9.443380356,0 ]
+    },
+    "properties": {
+    "id":67,
+    "ident":"AYPY",
+    "type":"large_airport",
+    "name":"Port Moresby Jacksons International Airport",
+    "continent":"OC",
+    "iso_country":"PG",
+    "iso_region":"PG-NCD",
+    "municipality":"Port Moresby"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -22.6056,63.985001,0 ]
+    },
+    "properties": {
+    "id":123,
+    "ident":"BIKF",
+    "type":"large_airport",
+    "name":"Keflavik International Airport",
+    "continent":"EU",
+    "iso_country":"IS",
+    "iso_region":"IS-2",
+    "municipality":"Reykjavík"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.580002,53.3097,0 ]
+    },
+    "properties": {
+    "id":1717,
+    "ident":"CYEG",
+    "type":"large_airport",
+    "name":"Edmonton International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-AB",
+    "municipality":"Edmonton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.50859833,44.88079834,0 ]
+    },
+    "properties": {
+    "id":1770,
+    "ident":"CYHZ",
+    "type":"large_airport",
+    "name":"Halifax / Stanfield International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-NS",
+    "municipality":"Halifax"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.669197,45.322498,0 ]
+    },
+    "properties": {
+    "id":1840,
+    "ident":"CYOW",
+    "type":"large_airport",
+    "name":"Ottawa Macdonald-Cartier International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-ON",
+    "municipality":"Ottawa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.393303,46.7911,0 ]
+    },
+    "properties": {
+    "id":1864,
+    "ident":"CYQB",
+    "type":"large_airport",
+    "name":"Quebec Jean Lesage International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-QC",
+    "municipality":"Quebec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.74079895,45.47060013,0 ]
+    },
+    "properties": {
+    "id":1928,
+    "ident":"CYUL",
+    "type":"large_airport",
+    "name":"Montreal / Pierre Elliott Trudeau International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-QC",
+    "municipality":"Montréal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1839981,49.19390106,0 ]
+    },
+    "properties": {
+    "id":1941,
+    "ident":"CYVR",
+    "type":"large_airport",
+    "name":"Vancouver International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-BC",
+    "municipality":"Vancouver"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23989868,49.90999985,0 ]
+    },
+    "properties": {
+    "id":1946,
+    "ident":"CYWG",
+    "type":"large_airport",
+    "name":"Winnipeg / James Armstrong Richardson International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-MB",
+    "municipality":"Winnipeg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.666554,53.884311,0 ]
+    },
+    "properties": {
+    "id":1966,
+    "ident":"CYXS",
+    "type":"large_airport",
+    "name":"Prince George Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-BC",
+    "municipality":"Prince George"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.361,49.025299,0 ]
+    },
+    "properties": {
+    "id":1969,
+    "ident":"CYXX",
+    "type":"large_airport",
+    "name":"Abbotsford International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-BC",
+    "municipality":"Abbotsford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0199966,51.11389923,0 ]
+    },
+    "properties": {
+    "id":1973,
+    "ident":"CYYC",
+    "type":"large_airport",
+    "name":"Calgary International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-AB",
+    "municipality":"Calgary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.426003,48.6469,0 ]
+    },
+    "properties": {
+    "id":1979,
+    "ident":"CYYJ",
+    "type":"large_airport",
+    "name":"Victoria International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-BC",
+    "municipality":"Victoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.7519,47.618599,0 ]
+    },
+    "properties": {
+    "id":1986,
+    "ident":"CYYT",
+    "type":"large_airport",
+    "name":"St. John's International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-NL",
+    "municipality":"St. John's"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.63059998,43.67720032,0 ]
+    },
+    "properties": {
+    "id":1990,
+    "ident":"CYYZ",
+    "type":"large_airport",
+    "name":"Lester B. Pearson International Airport",
+    "continent":"NA",
+    "iso_country":"CA",
+    "iso_region":"CA-ON",
+    "municipality":"Toronto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.214531,36.693886,0 ]
+    },
+    "properties": {
+    "id":2050,
+    "ident":"DAAG",
+    "type":"large_airport",
+    "name":"Houari Boumediene Airport",
+    "continent":"AF",
+    "iso_country":"DZ",
+    "iso_region":"DZ-16",
+    "municipality":"Algiers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.166786,5.6051898,0 ]
+    },
+    "properties": {
+    "id":2090,
+    "ident":"DGAA",
+    "type":"large_airport",
+    "name":"Kotoka International Airport",
+    "continent":"AF",
+    "iso_country":"GH",
+    "iso_region":"GH-AA",
+    "municipality":"Accra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.263169765,9.006790161,0 ]
+    },
+    "properties": {
+    "id":2104,
+    "ident":"DNAA",
+    "type":"large_airport",
+    "name":"Nnamdi Azikiwe International Airport",
+    "continent":"AF",
+    "iso_country":"NG",
+    "iso_region":"NG-FC",
+    "municipality":"Abuja"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.321160078,6.577370167,0 ]
+    },
+    "properties": {
+    "id":2118,
+    "ident":"DNMM",
+    "type":"large_airport",
+    "name":"Murtala Muhammed International Airport",
+    "continent":"AF",
+    "iso_country":"NG",
+    "iso_region":"NG-LA",
+    "municipality":"Lagos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.18361,13.4815,0 ]
+    },
+    "properties": {
+    "id":2125,
+    "ident":"DRRN",
+    "type":"large_airport",
+    "name":"Diori Hamani International Airport",
+    "continent":"AF",
+    "iso_country":"NE",
+    "iso_region":"NE-8",
+    "municipality":"Niamey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2272,36.851002,0 ]
+    },
+    "properties": {
+    "id":2133,
+    "ident":"DTTA",
+    "type":"large_airport",
+    "name":"Tunis Carthage International Airport",
+    "continent":"AF",
+    "iso_country":"TN",
+    "iso_region":"TN-11",
+    "municipality":"Tunis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.48444,50.901402,0 ]
+    },
+    "properties": {
+    "id":2155,
+    "ident":"EBBR",
+    "type":"large_airport",
+    "name":"Brussels Airport",
+    "continent":"EU",
+    "iso_country":"BE",
+    "iso_region":"BE-BRU",
+    "municipality":"Zaventem"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.561268,50.036521,0 ]
+    },
+    "properties": {
+    "id":2212,
+    "ident":"EDDF",
+    "type":"large_airport",
+    "name":"Frankfurt Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-HE",
+    "municipality":"Frankfurt am Main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.98823,53.630402,0 ]
+    },
+    "properties": {
+    "id":2214,
+    "ident":"EDDH",
+    "type":"large_airport",
+    "name":"Hamburg Helmut Schmidt Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-HH",
+    "municipality":"Hamburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.14274,50.865898,0 ]
+    },
+    "properties": {
+    "id":2216,
+    "ident":"EDDK",
+    "type":"large_airport",
+    "name":"Cologne Bonn Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-NW",
+    "municipality":"Köln (Cologne)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.76678,51.289501,0 ]
+    },
+    "properties": {
+    "id":2217,
+    "ident":"EDDL",
+    "type":"large_airport",
+    "name":"Düsseldorf Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-NW",
+    "municipality":"Düsseldorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.7861,48.353802,0 ]
+    },
+    "properties": {
+    "id":2218,
+    "ident":"EDDM",
+    "type":"large_airport",
+    "name":"Munich Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-BY",
+    "municipality":"Munich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.078056,49.498699,0 ]
+    },
+    "properties": {
+    "id":2219,
+    "ident":"EDDN",
+    "type":"large_airport",
+    "name":"Nuremberg Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-BY",
+    "municipality":"Nuremberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.236389,51.423889,0 ]
+    },
+    "properties": {
+    "id":2220,
+    "ident":"EDDP",
+    "type":"large_airport",
+    "name":"Leipzig/Halle Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-SN",
+    "municipality":"Leipzig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.221960068,48.68989944,0 ]
+    },
+    "properties": {
+    "id":2222,
+    "ident":"EDDS",
+    "type":"large_airport",
+    "name":"Stuttgart Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-BW",
+    "municipality":"Stuttgart"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.68508,52.461102,0 ]
+    },
+    "properties": {
+    "id":2224,
+    "ident":"EDDV",
+    "type":"large_airport",
+    "name":"Hannover Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-NI",
+    "municipality":"Hannover"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.83279991,59.41329956,0 ]
+    },
+    "properties": {
+    "id":2301,
+    "ident":"EETN",
+    "type":"large_airport",
+    "name":"Lennart Meri Tallinn Airport",
+    "continent":"EU",
+    "iso_country":"EE",
+    "iso_region":"EE-37",
+    "municipality":"Tallinn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.963301,60.3172,0 ]
+    },
+    "properties": {
+    "id":2307,
+    "ident":"EFHK",
+    "type":"large_airport",
+    "name":"Helsinki Vantaa Airport",
+    "continent":"EU",
+    "iso_country":"FI",
+    "iso_region":"FI-18",
+    "municipality":"Helsinki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.215829849,54.65750122,0 ]
+    },
+    "properties": {
+    "id":2385,
+    "ident":"EGAA",
+    "type":"large_airport",
+    "name":"Belfast International Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-NIR",
+    "municipality":"Belfast"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.748029947,52.45389938,0 ]
+    },
+    "properties": {
+    "id":2389,
+    "ident":"EGBB",
+    "type":"large_airport",
+    "name":"Birmingham International Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-ENG",
+    "municipality":"Birmingham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.279521,53.349375,0 ]
+    },
+    "properties": {
+    "id":2398,
+    "ident":"EGCC",
+    "type":"large_airport",
+    "name":"Manchester Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-ENG",
+    "municipality":"Manchester"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.368333012,51.87469864,0 ]
+    },
+    "properties": {
+    "id":2419,
+    "ident":"EGGW",
+    "type":"large_airport",
+    "name":"London Luton Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-ENG",
+    "municipality":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.190278,51.148102,0 ]
+    },
+    "properties": {
+    "id":2429,
+    "ident":"EGKK",
+    "type":"large_airport",
+    "name":"London Gatwick Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-ENG",
+    "municipality":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.461941,51.4706,0 ]
+    },
+    "properties": {
+    "id":2434,
+    "ident":"EGLL",
+    "type":"large_airport",
+    "name":"London Heathrow Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-ENG",
+    "municipality":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.43306,55.871899,0 ]
+    },
+    "properties": {
+    "id":2461,
+    "ident":"EGPF",
+    "type":"large_airport",
+    "name":"Glasgow International Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-SCT",
+    "municipality":"Paisley, Renfrewshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.372288,55.950145,0 ]
+    },
+    "properties": {
+    "id":2462,
+    "ident":"EGPH",
+    "type":"large_airport",
+    "name":"Edinburgh Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-SCT",
+    "municipality":"Edinburgh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.234999999,51.88499832,0 ]
+    },
+    "properties": {
+    "id":2476,
+    "ident":"EGSS",
+    "type":"large_airport",
+    "name":"London Stansted Airport",
+    "continent":"EU",
+    "iso_country":"GB",
+    "iso_region":"GB-ENG",
+    "municipality":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.76389,52.308601,0 ]
+    },
+    "properties": {
+    "id":2513,
+    "ident":"EHAM",
+    "type":"large_airport",
+    "name":"Amsterdam Airport Schiphol",
+    "continent":"EU",
+    "iso_country":"NL",
+    "iso_region":"NL-NH",
+    "municipality":"Amsterdam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.374529839,51.45009995,0 ]
+    },
+    "properties": {
+    "id":2518,
+    "ident":"EHEH",
+    "type":"large_airport",
+    "name":"Eindhoven Airport",
+    "continent":"EU",
+    "iso_country":"NL",
+    "iso_region":"NL-NB",
+    "municipality":"Eindhoven"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.262121,53.428713,0 ]
+    },
+    "properties": {
+    "id":2533,
+    "ident":"EIDW",
+    "type":"large_airport",
+    "name":"Dublin Airport",
+    "continent":"EU",
+    "iso_country":"IE",
+    "iso_region":"IE-D",
+    "municipality":"Dublin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.92482,52.702,0 ]
+    },
+    "properties": {
+    "id":2537,
+    "ident":"EINN",
+    "type":"large_airport",
+    "name":"Shannon Airport",
+    "continent":"EU",
+    "iso_country":"IE",
+    "iso_region":"IE-CE",
+    "municipality":"Shannon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.151780128,55.74029922,0 ]
+    },
+    "properties": {
+    "id":2541,
+    "ident":"EKBI",
+    "type":"large_airport",
+    "name":"Billund Airport",
+    "continent":"EU",
+    "iso_country":"DK",
+    "iso_region":"DK-83",
+    "municipality":"Billund"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.65600014,55.61790085,0 ]
+    },
+    "properties": {
+    "id":2542,
+    "ident":"EKCH",
+    "type":"large_airport",
+    "name":"Copenhagen Kastrup Airport",
+    "continent":"EU",
+    "iso_country":"DK",
+    "iso_region":"DK-84",
+    "municipality":"Copenhagen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2044444,49.6233333,0 ]
+    },
+    "properties": {
+    "id":2563,
+    "ident":"ELLX",
+    "type":"large_airport",
+    "name":"Luxembourg-Findel International Airport",
+    "continent":"EU",
+    "iso_country":"LU",
+    "iso_region":"LU-L",
+    "municipality":"Luxembourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.21814,60.2934,0 ]
+    },
+    "properties": {
+    "id":2570,
+    "ident":"ENBR",
+    "type":"large_airport",
+    "name":"Bergen Airport, Flesland",
+    "continent":"EU",
+    "iso_country":"NO",
+    "iso_region":"NO-46",
+    "municipality":"Bergen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1004,60.193901,0 ]
+    },
+    "properties": {
+    "id":2578,
+    "ident":"ENGM",
+    "type":"large_airport",
+    "name":"Oslo Airport, Gardermoen",
+    "continent":"EU",
+    "iso_country":"NO",
+    "iso_region":"NO-30",
+    "municipality":"Oslo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.9189,69.683296,0 ]
+    },
+    "properties": {
+    "id":2599,
+    "ident":"ENTC",
+    "type":"large_airport",
+    "name":"Tromsø Airport, Langnes",
+    "continent":"EU",
+    "iso_country":"NO",
+    "iso_region":"NO-54",
+    "municipality":"Tromsø"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.924,63.457802,0 ]
+    },
+    "properties": {
+    "id":2601,
+    "ident":"ENVA",
+    "type":"large_airport",
+    "name":"Trondheim Airport, Værnes",
+    "continent":"EU",
+    "iso_country":"NO",
+    "iso_region":"NO-50",
+    "municipality":"Trondheim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.63778,58.876701,0 ]
+    },
+    "properties": {
+    "id":2602,
+    "ident":"ENZV",
+    "type":"large_airport",
+    "name":"Stavanger Airport, Sola",
+    "continent":"EU",
+    "iso_country":"NO",
+    "iso_region":"NO-11",
+    "municipality":"Stavanger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.46619987,54.37760162,0 ]
+    },
+    "properties": {
+    "id":2608,
+    "ident":"EPGD",
+    "type":"large_airport",
+    "name":"Gdańsk Lech Wałęsa Airport",
+    "continent":"EU",
+    "iso_country":"PL",
+    "iso_region":"PL-PM",
+    "municipality":"Gdańsk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.7848,50.077702,0 ]
+    },
+    "properties": {
+    "id":2609,
+    "ident":"EPKK",
+    "type":"large_airport",
+    "name":"Kraków John Paul II International Airport",
+    "continent":"EU",
+    "iso_country":"PL",
+    "iso_region":"PL-MA",
+    "municipality":"Kraków"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.96710014,52.16569901,0 ]
+    },
+    "properties": {
+    "id":2637,
+    "ident":"EPWA",
+    "type":"large_airport",
+    "name":"Warsaw Chopin Airport",
+    "continent":"EU",
+    "iso_country":"PL",
+    "iso_region":"PL-MZ",
+    "municipality":"Warsaw"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.27980042,57.66279984,0 ]
+    },
+    "properties": {
+    "id":2648,
+    "ident":"ESGG",
+    "type":"large_airport",
+    "name":"Gothenburg-Landvetter Airport",
+    "continent":"EU",
+    "iso_country":"SE",
+    "iso_region":"SE-Q",
+    "municipality":"Gothenburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.91860008,59.65190125,0 ]
+    },
+    "properties": {
+    "id":2701,
+    "ident":"ESSA",
+    "type":"large_airport",
+    "name":"Stockholm-Arlanda Airport",
+    "continent":"EU",
+    "iso_country":"SE",
+    "iso_region":"SE-AB",
+    "municipality":"Stockholm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.9711,56.923599,0 ]
+    },
+    "properties": {
+    "id":2758,
+    "ident":"EVRA",
+    "type":"large_airport",
+    "name":"Riga International Airport",
+    "continent":"EU",
+    "iso_country":"LV",
+    "iso_region":"LV-062",
+    "municipality":"Riga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.285801,54.634102,0 ]
+    },
+    "properties": {
+    "id":2766,
+    "ident":"EYVI",
+    "type":"large_airport",
+    "name":"Vilnius International Airport",
+    "continent":"EU",
+    "iso_country":"LT",
+    "iso_region":"LT-VL",
+    "municipality":"Vilnius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.60169983,-33.96480179,0 ]
+    },
+    "properties": {
+    "id":2775,
+    "ident":"FACT",
+    "type":"large_airport",
+    "name":"Cape Town International Airport",
+    "continent":"AF",
+    "iso_country":"ZA",
+    "iso_region":"ZA-WC",
+    "municipality":"Cape Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.9182,-24.555201,0 ]
+    },
+    "properties": {
+    "id":2864,
+    "ident":"FBSK",
+    "type":"large_airport",
+    "name":"Sir Seretse Khama International Airport",
+    "continent":"AF",
+    "iso_country":"BW",
+    "iso_region":"BW-GA",
+    "municipality":"Gaborone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.683601,-20.430201,0 ]
+    },
+    "properties": {
+    "id":2878,
+    "ident":"FIMP",
+    "type":"large_airport",
+    "name":"Sir Seewoosagur Ramgoolam International Airport",
+    "continent":"AF",
+    "iso_country":"MU",
+    "iso_region":"MU-GP",
+    "municipality":"Plaine Magnien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.452722,-15.330833,0 ]
+    },
+    "properties": {
+    "id":2894,
+    "ident":"FLLS",
+    "type":"large_airport",
+    "name":"Kenneth Kaunda International Airport",
+    "continent":"AF",
+    "iso_country":"ZM",
+    "iso_region":"ZM-09",
+    "municipality":"Lusaka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.518894,-20.890087,0 ]
+    },
+    "properties": {
+    "id":2905,
+    "ident":"FMEE",
+    "type":"large_airport",
+    "name":"Roland Garros Airport",
+    "continent":"AF",
+    "iso_country":"RE",
+    "iso_region":"RE-SD",
+    "municipality":"Sainte-Marie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.478802,-18.7969,0 ]
+    },
+    "properties": {
+    "id":2908,
+    "ident":"FMMI",
+    "type":"large_airport",
+    "name":"Ivato Airport",
+    "continent":"AF",
+    "iso_country":"MG",
+    "iso_region":"MG-T",
+    "municipality":"Antananarivo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.2312,-8.85837,0 ]
+    },
+    "properties": {
+    "id":2942,
+    "ident":"FNLU",
+    "type":"large_airport",
+    "name":"Quatro de Fevereiro International Airport",
+    "continent":"AF",
+    "iso_country":"AO",
+    "iso_region":"AO-LUA",
+    "municipality":"Luanda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.572601,-25.920799,0 ]
+    },
+    "properties": {
+    "id":2975,
+    "ident":"FQMA",
+    "type":"large_airport",
+    "name":"Maputo Airport",
+    "continent":"AF",
+    "iso_country":"MZ",
+    "iso_region":"MZ-MPM",
+    "municipality":"Maputo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.521801,-4.67434,0 ]
+    },
+    "properties": {
+    "id":2993,
+    "ident":"FSIA",
+    "type":"large_airport",
+    "name":"Seychelles International Airport",
+    "continent":"AF",
+    "iso_country":"SC",
+    "iso_region":"SC-20",
+    "municipality":"Mahe Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.034,12.1337,0 ]
+    },
+    "properties": {
+    "id":2998,
+    "ident":"FTTJ",
+    "type":"large_airport",
+    "name":"N'Djamena International Airport",
+    "continent":"AF",
+    "iso_country":"TD",
+    "iso_region":"TD-ND",
+    "municipality":"N'Djamena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.0928,-17.931801,0 ]
+    },
+    "properties": {
+    "id":3005,
+    "ident":"FVHA",
+    "type":"large_airport",
+    "name":"Robert Gabriel Mugabe International Airport",
+    "continent":"AF",
+    "iso_country":"ZW",
+    "iso_region":"ZW-HA",
+    "municipality":"Harare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4709,-22.4799,0 ]
+    },
+    "properties": {
+    "id":3039,
+    "ident":"FYWH",
+    "type":"large_airport",
+    "name":"Hosea Kutako International Airport",
+    "continent":"AF",
+    "iso_country":"NA",
+    "iso_region":"NA-KH",
+    "municipality":"Windhoek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4446,-4.38575,0 ]
+    },
+    "properties": {
+    "id":3040,
+    "ident":"FZAA",
+    "type":"large_airport",
+    "name":"Ndjili International Airport",
+    "continent":"AF",
+    "iso_country":"CD",
+    "iso_region":"CD-KN",
+    "municipality":"Kinshasa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.94994,12.5335,0 ]
+    },
+    "properties": {
+    "id":3066,
+    "ident":"GABS",
+    "type":"large_airport",
+    "name":"Modibo Keita International Airport",
+    "continent":"AF",
+    "iso_country":"ML",
+    "iso_region":"ML-2",
+    "municipality":"Bamako"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.652201,13.338,0 ]
+    },
+    "properties": {
+    "id":3076,
+    "ident":"GBYD",
+    "type":"large_airport",
+    "name":"Banjul International Airport",
+    "continent":"AF",
+    "iso_country":"GM",
+    "iso_region":"GM-W",
+    "municipality":"Banjul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.8638,28.4527,0 ]
+    },
+    "properties": {
+    "id":3077,
+    "ident":"GCFV",
+    "type":"large_airport",
+    "name":"Fuerteventura Airport",
+    "continent":"AF",
+    "iso_country":"ES",
+    "iso_region":"ES-CN",
+    "municipality":"El Matorral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.3866,27.9319,0 ]
+    },
+    "properties": {
+    "id":3081,
+    "ident":"GCLP",
+    "type":"large_airport",
+    "name":"Gran Canaria Airport",
+    "continent":"AF",
+    "iso_country":"ES",
+    "iso_region":"ES-CN",
+    "municipality":"Gran Canaria Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.6052,28.945499,0 ]
+    },
+    "properties": {
+    "id":3082,
+    "ident":"GCRR",
+    "type":"large_airport",
+    "name":"César Manrique-Lanzarote Airport",
+    "continent":"AF",
+    "iso_country":"ES",
+    "iso_region":"ES-CN",
+    "municipality":"San Bartolomé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.5725,28.0445,0 ]
+    },
+    "properties": {
+    "id":3083,
+    "ident":"GCTS",
+    "type":"large_airport",
+    "name":"Tenerife Sur Airport",
+    "continent":"AF",
+    "iso_country":"ES",
+    "iso_region":"ES-CN",
+    "municipality":"Tenerife"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.1955,8.61644,0 ]
+    },
+    "properties": {
+    "id":3095,
+    "ident":"GFLL",
+    "type":"large_airport",
+    "name":"Lungi International Airport",
+    "continent":"AF",
+    "iso_country":"SL",
+    "iso_region":"SL-N",
+    "municipality":"Freetown (Lungi-Town)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.3623,6.23379,0 ]
+    },
+    "properties": {
+    "id":3099,
+    "ident":"GLRB",
+    "type":"large_airport",
+    "name":"Roberts International Airport",
+    "continent":"AF",
+    "iso_country":"LR",
+    "iso_region":"LR-MG",
+    "municipality":"Monrovia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.589970112,33.36750031,0 ]
+    },
+    "properties": {
+    "id":3113,
+    "ident":"GMMN",
+    "type":"large_airport",
+    "name":"Mohammed V International Airport",
+    "continent":"AF",
+    "iso_country":"MA",
+    "iso_region":"MA-CAS",
+    "municipality":"Casablanca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -22.9494,16.7414,0 ]
+    },
+    "properties": {
+    "id":3150,
+    "ident":"GVAC",
+    "type":"large_airport",
+    "name":"Amílcar Cabral International Airport",
+    "continent":"AF",
+    "iso_country":"CV",
+    "iso_region":"CV-B",
+    "municipality":"Espargos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.799301,8.97789,0 ]
+    },
+    "properties": {
+    "id":3157,
+    "ident":"HAAB",
+    "type":"large_airport",
+    "name":"Addis Ababa Bole International Airport",
+    "continent":"AF",
+    "iso_country":"ET",
+    "iso_region":"ET-AA",
+    "municipality":"Addis Ababa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.1595,11.5473,0 ]
+    },
+    "properties": {
+    "id":3174,
+    "ident":"HDAM",
+    "type":"large_airport",
+    "name":"Djibouti-Ambouli Airport",
+    "continent":"AF",
+    "iso_country":"DJ",
+    "iso_region":"DJ-DJ",
+    "municipality":"Djibouti City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.396694,30.111534,0 ]
+    },
+    "properties": {
+    "id":3183,
+    "ident":"HECA",
+    "type":"large_airport",
+    "name":"Cairo International Airport",
+    "continent":"AF",
+    "iso_country":"EG",
+    "iso_region":"EG-C",
+    "municipality":"Cairo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.796692,27.176776,0 ]
+    },
+    "properties": {
+    "id":3186,
+    "ident":"HEGN",
+    "type":"large_airport",
+    "name":"Hurghada International Airport",
+    "continent":"AF",
+    "iso_country":"EG",
+    "iso_region":"EG-BA",
+    "municipality":"Hurghada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.394717,27.977272,0 ]
+    },
+    "properties": {
+    "id":3198,
+    "ident":"HESH",
+    "type":"large_airport",
+    "name":"Sharm El Sheikh International Airport",
+    "continent":"AF",
+    "iso_country":"EG",
+    "iso_region":"EG-JS",
+    "municipality":"Sharm El Sheikh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92779922,-1.319239974,0 ]
+    },
+    "properties": {
+    "id":3206,
+    "ident":"HKJK",
+    "type":"large_airport",
+    "name":"Jomo Kenyatta International Airport",
+    "continent":"AF",
+    "iso_country":"KE",
+    "iso_region":"KE-110",
+    "municipality":"Nairobi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5942,-4.03483,0 ]
+    },
+    "properties": {
+    "id":3213,
+    "ident":"HKMO",
+    "type":"large_airport",
+    "name":"Moi International Airport",
+    "continent":"AF",
+    "iso_country":"KE",
+    "iso_region":"KE-300",
+    "municipality":"Mombasa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.287878,32.89177,0 ]
+    },
+    "properties": {
+    "id":3224,
+    "ident":"HLLM",
+    "type":"large_airport",
+    "name":"Mitiga International Airport",
+    "continent":"AF",
+    "iso_country":"LY",
+    "iso_region":"LY-TB",
+    "municipality":"Tripoli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.1395,-1.96863,0 ]
+    },
+    "properties": {
+    "id":3237,
+    "ident":"HRYR",
+    "type":"large_airport",
+    "name":"Kigali International Airport",
+    "continent":"AF",
+    "iso_country":"RW",
+    "iso_region":"RW-01",
+    "municipality":"Kigali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.601101,4.87201,0 ]
+    },
+    "properties": {
+    "id":3247,
+    "ident":"HJJJ",
+    "type":"large_airport",
+    "name":"Juba International Airport",
+    "continent":"AF",
+    "iso_country":"SS",
+    "iso_region":"SS-17",
+    "municipality":"Juba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.5532,15.5895,0 ]
+    },
+    "properties": {
+    "id":3249,
+    "ident":"HSSK",
+    "type":"large_airport",
+    "name":"Khartoum International Airport",
+    "continent":"AF",
+    "iso_country":"SD",
+    "iso_region":"SD-03",
+    "municipality":"Khartoum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.202599,-6.87811,0 ]
+    },
+    "properties": {
+    "id":3251,
+    "ident":"HTDA",
+    "type":"large_airport",
+    "name":"Julius Nyerere International Airport",
+    "continent":"AF",
+    "iso_country":"TZ",
+    "iso_region":"TZ-02",
+    "municipality":"Dar es Salaam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.224899,-6.22202,0 ]
+    },
+    "properties": {
+    "id":3260,
+    "ident":"HTZA",
+    "type":"large_airport",
+    "name":"Abeid Amani Karume International Airport",
+    "continent":"AF",
+    "iso_country":"TZ",
+    "iso_region":"TZ-07",
+    "municipality":"Zanzibar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.443501,0.042386,0 ]
+    },
+    "properties": {
+    "id":3263,
+    "ident":"HUEN",
+    "type":"large_airport",
+    "name":"Entebbe International Airport",
+    "continent":"AF",
+    "iso_country":"UG",
+    "iso_region":"UG-C",
+    "municipality":"Kampala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.866997,38.810799,0 ]
+    },
+    "properties": {
+    "id":3364,
+    "ident":"KADW",
+    "type":"large_airport",
+    "name":"Joint Base Andrews",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-MD",
+    "municipality":"Camp Springs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.428101,33.6367,0 ]
+    },
+    "properties": {
+    "id":3384,
+    "ident":"KATL",
+    "type":"large_airport",
+    "name":"Hartsfield Jackson Atlanta International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-GA",
+    "municipality":"Atlanta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.662015,30.197535,0 ]
+    },
+    "properties": {
+    "id":3386,
+    "ident":"KAUS",
+    "type":"large_airport",
+    "name":"Austin Bergstrom International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-TX",
+    "municipality":"Austin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.67819977,36.12450027,0 ]
+    },
+    "properties": {
+    "id":3420,
+    "ident":"KBNA",
+    "type":"large_airport",
+    "name":"Nashville International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-TN",
+    "municipality":"Nashville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.005203,42.3643,0 ]
+    },
+    "properties": {
+    "id":3422,
+    "ident":"KBOS",
+    "type":"large_airport",
+    "name":"Logan International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-MA",
+    "municipality":"Boston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.73220062,42.94049835,0 ]
+    },
+    "properties": {
+    "id":3431,
+    "ident":"KBUF",
+    "type":"large_airport",
+    "name":"Buffalo Niagara International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NY",
+    "municipality":"Buffalo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.668297,39.1754,0 ]
+    },
+    "properties": {
+    "id":3435,
+    "ident":"KBWI",
+    "type":"large_airport",
+    "name":"Baltimore/Washington International Thurgood Marshall Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-MD",
+    "municipality":"Baltimore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.84980011,41.4117012,0 ]
+    },
+    "properties": {
+    "id":3454,
+    "ident":"KCLE",
+    "type":"large_airport",
+    "name":"Cleveland Hopkins International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-OH",
+    "municipality":"Cleveland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.94309998,35.2140007,0 ]
+    },
+    "properties": {
+    "id":3457,
+    "ident":"KCLT",
+    "type":"large_airport",
+    "name":"Charlotte Douglas International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NC",
+    "municipality":"Charlotte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.891899,39.998001,0 ]
+    },
+    "properties": {
+    "id":3458,
+    "ident":"KCMH",
+    "type":"large_airport",
+    "name":"John Glenn Columbus International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-OH",
+    "municipality":"Columbus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.667801,39.048801,0 ]
+    },
+    "properties": {
+    "id":3471,
+    "ident":"KCVG",
+    "type":"large_airport",
+    "name":"Cincinnati Northern Kentucky International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-KY",
+    "municipality":"Cincinnati / Covington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.037697,38.8521,0 ]
+    },
+    "properties": {
+    "id":3483,
+    "ident":"KDCA",
+    "type":"large_airport",
+    "name":"Ronald Reagan Washington National Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-DC",
+    "municipality":"Washington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.6729965,39.86169815,0 ]
+    },
+    "properties": {
+    "id":3486,
+    "ident":"KDEN",
+    "type":"large_airport",
+    "name":"Denver International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CO",
+    "municipality":"Denver"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.038002,32.896801,0 ]
+    },
+    "properties": {
+    "id":3488,
+    "ident":"KDFW",
+    "type":"large_airport",
+    "name":"Dallas Fort Worth International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-TX",
+    "municipality":"Dallas-Fort Worth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.35340118,42.21239853,0 ]
+    },
+    "properties": {
+    "id":3497,
+    "ident":"KDTW",
+    "type":"large_airport",
+    "name":"Detroit Metropolitan Wayne County Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-MI",
+    "municipality":"Detroit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.168701,40.692501,0 ]
+    },
+    "properties": {
+    "id":3521,
+    "ident":"KEWR",
+    "type":"large_airport",
+    "name":"Newark Liberty International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NJ",
+    "municipality":"Newark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.152702,26.072599,0 ]
+    },
+    "properties": {
+    "id":3531,
+    "ident":"KFLL",
+    "type":"large_airport",
+    "name":"Fort Lauderdale Hollywood International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"Fort Lauderdale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.455803,38.9445,0 ]
+    },
+    "properties": {
+    "id":3602,
+    "ident":"KIAD",
+    "type":"large_airport",
+    "name":"Washington Dulles International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-VA",
+    "municipality":"Dulles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.34140015,29.9843998,0 ]
+    },
+    "properties": {
+    "id":3604,
+    "ident":"KIAH",
+    "type":"large_airport",
+    "name":"George Bush Intercontinental Houston Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-TX",
+    "municipality":"Houston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.294403,39.7173,0 ]
+    },
+    "properties": {
+    "id":3610,
+    "ident":"KIND",
+    "type":"large_airport",
+    "name":"Indianapolis International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-IN",
+    "municipality":"Indianapolis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.68789673,30.49410057,0 ]
+    },
+    "properties": {
+    "id":3620,
+    "ident":"KJAX",
+    "type":"large_airport",
+    "name":"Jacksonville International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"Jacksonville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.779317,40.639447,0 ]
+    },
+    "properties": {
+    "id":3622,
+    "ident":"KJFK",
+    "type":"large_airport",
+    "name":"John F Kennedy International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NY",
+    "municipality":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.151817,36.083361,0 ]
+    },
+    "properties": {
+    "id":3631,
+    "ident":"KLAS",
+    "type":"large_airport",
+    "name":"Harry Reid International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NV",
+    "municipality":"Las Vegas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.407997,33.942501,0 ]
+    },
+    "properties": {
+    "id":3632,
+    "ident":"KLAX",
+    "type":"large_airport",
+    "name":"Los Angeles International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"Los Angeles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.872597,40.777199,0 ]
+    },
+    "properties": {
+    "id":3643,
+    "ident":"KLGA",
+    "type":"large_airport",
+    "name":"La Guardia Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NY",
+    "municipality":"New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.713898,39.2976,0 ]
+    },
+    "properties": {
+    "id":3668,
+    "ident":"KMCI",
+    "type":"large_airport",
+    "name":"Kansas City International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-MO",
+    "municipality":"Kansas City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.30899811,28.42939949,0 ]
+    },
+    "properties": {
+    "id":3670,
+    "ident":"KMCO",
+    "type":"large_airport",
+    "name":"Orlando International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"Orlando"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.752403,41.785999,0 ]
+    },
+    "properties": {
+    "id":3673,
+    "ident":"KMDW",
+    "type":"large_airport",
+    "name":"Chicago Midway International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-IL",
+    "municipality":"Chicago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.97669983,35.04240036,0 ]
+    },
+    "properties": {
+    "id":3675,
+    "ident":"KMEM",
+    "type":"large_airport",
+    "name":"Memphis International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-TN",
+    "municipality":"Memphis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.29060364,25.79319954,0 ]
+    },
+    "properties": {
+    "id":3685,
+    "ident":"KMIA",
+    "type":"large_airport",
+    "name":"Miami International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"Miami"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.89659882,42.94720078,0 ]
+    },
+    "properties": {
+    "id":3690,
+    "ident":"KMKE",
+    "type":"large_airport",
+    "name":"General Mitchell International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-WI",
+    "municipality":"Milwaukee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.221802,44.882,0 ]
+    },
+    "properties": {
+    "id":3709,
+    "ident":"KMSP",
+    "type":"large_airport",
+    "name":"Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-MN",
+    "municipality":"Minneapolis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.25800323,29.99340057,0 ]
+    },
+    "properties": {
+    "id":3711,
+    "ident":"KMSY",
+    "type":"large_airport",
+    "name":"Louis Armstrong New Orleans International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-LA",
+    "municipality":"New Orleans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.221001,37.721298,0 ]
+    },
+    "properties": {
+    "id":3744,
+    "ident":"KOAK",
+    "type":"large_airport",
+    "name":"Metropolitan Oakland International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"Oakland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.6009979,34.05599976,0 ]
+    },
+    "properties": {
+    "id":3752,
+    "ident":"KONT",
+    "type":"large_airport",
+    "name":"Ontario International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"Ontario"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9048,41.9786,0 ]
+    },
+    "properties": {
+    "id":3754,
+    "ident":"KORD",
+    "type":"large_airport",
+    "name":"Chicago O'Hare International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-IL",
+    "municipality":"Chicago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.09559631,26.68320084,0 ]
+    },
+    "properties": {
+    "id":3766,
+    "ident":"KPBI",
+    "type":"large_airport",
+    "name":"Palm Beach International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"West Palm Beach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5979996,45.58869934,0 ]
+    },
+    "properties": {
+    "id":3768,
+    "ident":"KPDX",
+    "type":"large_airport",
+    "name":"Portland International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-OR",
+    "municipality":"Portland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2410965,39.87189865,0 ]
+    },
+    "properties": {
+    "id":3771,
+    "ident":"KPHL",
+    "type":"large_airport",
+    "name":"Philadelphia International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-PA",
+    "municipality":"Philadelphia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.005905,33.435302,0 ]
+    },
+    "properties": {
+    "id":3772,
+    "ident":"KPHX",
+    "type":"large_airport",
+    "name":"Phoenix Sky Harbor International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-AZ",
+    "municipality":"Phoenix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.23290253,40.49150085,0 ]
+    },
+    "properties": {
+    "id":3778,
+    "ident":"KPIT",
+    "type":"large_airport",
+    "name":"Pittsburgh International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-PA",
+    "municipality":"Pittsburgh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.425668,41.725038,0 ]
+    },
+    "properties": {
+    "id":3795,
+    "ident":"KPVD",
+    "type":"large_airport",
+    "name":"Theodore Francis Green State Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-RI",
+    "municipality":"Warwick"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.309303,43.646198,0 ]
+    },
+    "properties": {
+    "id":3796,
+    "ident":"KPWM",
+    "type":"large_airport",
+    "name":"Portland International Jetport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-ME",
+    "municipality":"Portland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.78749847,35.87760162,0 ]
+    },
+    "properties": {
+    "id":3844,
+    "ident":"KRDU",
+    "type":"large_airport",
+    "name":"Raleigh Durham International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NC",
+    "municipality":"Raleigh/Durham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.31970215,37.50519943,0 ]
+    },
+    "properties": {
+    "id":3847,
+    "ident":"KRIC",
+    "type":"large_airport",
+    "name":"Richmond International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-VA",
+    "municipality":"Richmond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7679977,39.49909973,0 ]
+    },
+    "properties": {
+    "id":3853,
+    "ident":"KRNO",
+    "type":"large_airport",
+    "name":"Reno Tahoe International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NV",
+    "municipality":"Reno"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.75520325,26.53619957,0 ]
+    },
+    "properties": {
+    "id":3858,
+    "ident":"KRSW",
+    "type":"large_airport",
+    "name":"Southwest Florida International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"Fort Myers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1900024,32.73360062,0 ]
+    },
+    "properties": {
+    "id":3862,
+    "ident":"KSAN",
+    "type":"large_airport",
+    "name":"San Diego International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"San Diego"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.469803,29.533701,0 ]
+    },
+    "properties": {
+    "id":3863,
+    "ident":"KSAT",
+    "type":"large_airport",
+    "name":"San Antonio International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-TX",
+    "municipality":"San Antonio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.20210266,32.12760162,0 ]
+    },
+    "properties": {
+    "id":3864,
+    "ident":"KSAV",
+    "type":"large_airport",
+    "name":"Savannah Hilton Head International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-GA",
+    "municipality":"Savannah"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.736,38.1744,0 ]
+    },
+    "properties": {
+    "id":3873,
+    "ident":"KSDF",
+    "type":"large_airport",
+    "name":"Louisville Muhammad Ali International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-KY",
+    "municipality":"Louisville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.311134,47.449162,0 ]
+    },
+    "properties": {
+    "id":3875,
+    "ident":"KSEA",
+    "type":"large_airport",
+    "name":"Seattle–Tacoma International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-WA",
+    "municipality":"Seattle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.23750305,28.77759933,0 ]
+    },
+    "properties": {
+    "id":3876,
+    "ident":"KSFB",
+    "type":"large_airport",
+    "name":"Orlando Sanford International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"Orlando"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.375,37.61899948,0 ]
+    },
+    "properties": {
+    "id":3878,
+    "ident":"KSFO",
+    "type":"large_airport",
+    "name":"San Francisco International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"San Francisco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.929188,37.362452,0 ]
+    },
+    "properties": {
+    "id":3883,
+    "ident":"KSJC",
+    "type":"large_airport",
+    "name":"Norman Y. Mineta San Jose International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"San Jose"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.979746,40.785749,0 ]
+    },
+    "properties": {
+    "id":3887,
+    "ident":"KSLC",
+    "type":"large_airport",
+    "name":"Salt Lake City International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-UT",
+    "municipality":"Salt Lake City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.5910034,38.69540024,0 ]
+    },
+    "properties": {
+    "id":3892,
+    "ident":"KSMF",
+    "type":"large_airport",
+    "name":"Sacramento International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"Sacramento"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.867996,33.675701,0 ]
+    },
+    "properties": {
+    "id":3894,
+    "ident":"KSNA",
+    "type":"large_airport",
+    "name":"John Wayne Airport-Orange County Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"Santa Ana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.370003,38.748697,0 ]
+    },
+    "properties": {
+    "id":3905,
+    "ident":"KSTL",
+    "type":"large_airport",
+    "name":"St Louis Lambert International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-MO",
+    "municipality":"St Louis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.10630035,43.11119843,0 ]
+    },
+    "properties": {
+    "id":3913,
+    "ident":"KSYR",
+    "type":"large_airport",
+    "name":"Syracuse Hancock International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-NY",
+    "municipality":"Syracuse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.53320313,27.97550011,0 ]
+    },
+    "properties": {
+    "id":3926,
+    "ident":"KTPA",
+    "type":"large_airport",
+    "name":"Tampa International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-FL",
+    "municipality":"Tampa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.88809967,36.19839859,0 ]
+    },
+    "properties": {
+    "id":3930,
+    "ident":"KTUL",
+    "type":"large_airport",
+    "name":"Tulsa International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-OK",
+    "municipality":"Tulsa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.72060013,41.41469955,0 ]
+    },
+    "properties": {
+    "id":3972,
+    "ident":"LATI",
+    "type":"large_airport",
+    "name":"Tirana International Airport Mother Teresa",
+    "continent":"EU",
+    "iso_country":"AL",
+    "iso_region":"AL-11",
+    "municipality":"Tirana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.51519966,42.56959915,0 ]
+    },
+    "properties": {
+    "id":3974,
+    "ident":"LBBG",
+    "type":"large_airport",
+    "name":"Burgas Airport",
+    "continent":"EU",
+    "iso_country":"BG",
+    "iso_region":"BG-02",
+    "municipality":"Burgas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.41143608,42.69669342,0 ]
+    },
+    "properties": {
+    "id":3977,
+    "ident":"LBSF",
+    "type":"large_airport",
+    "name":"Sofia Airport",
+    "continent":"EU",
+    "iso_country":"BG",
+    "iso_region":"BG-23",
+    "municipality":"Sofia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.8251,43.232101,0 ]
+    },
+    "properties": {
+    "id":3979,
+    "ident":"LBWN",
+    "type":"large_airport",
+    "name":"Varna Airport",
+    "continent":"EU",
+    "iso_country":"BG",
+    "iso_region":"BG-03",
+    "municipality":"Varna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.624901,34.875099,0 ]
+    },
+    "properties": {
+    "id":3980,
+    "ident":"LCLK",
+    "type":"large_airport",
+    "name":"Larnaca International Airport",
+    "continent":"AS",
+    "iso_country":"CY",
+    "iso_region":"CY-04",
+    "municipality":"Larnaca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.06879997,45.74290085,0 ]
+    },
+    "properties": {
+    "id":3993,
+    "ident":"LDZA",
+    "type":"large_airport",
+    "name":"Zagreb Airport",
+    "continent":"EU",
+    "iso_country":"HR",
+    "iso_region":"HR-21",
+    "municipality":"Zagreb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.558156,38.2822,0 ]
+    },
+    "properties": {
+    "id":3997,
+    "ident":"LEAL",
+    "type":"large_airport",
+    "name":"Alicante-Elche Miguel Hernández Airport",
+    "continent":"EU",
+    "iso_country":"ES",
+    "iso_region":"ES-VC",
+    "municipality":"Alicante"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.07846,41.2971,0 ]
+    },
+    "properties": {
+    "id":4004,
+    "ident":"LEBL",
+    "type":"large_airport",
+    "name":"Josep Tarradellas Barcelona-El Prat Airport",
+    "continent":"EU",
+    "iso_country":"ES",
+    "iso_region":"ES-CT",
+    "municipality":"Barcelona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.37312,38.872898,0 ]
+    },
+    "properties": {
+    "id":4013,
+    "ident":"LEIB",
+    "type":"large_airport",
+    "name":"Ibiza Airport",
+    "continent":"EU",
+    "iso_country":"ES",
+    "iso_region":"ES-IB",
+    "municipality":"Ibiza (Eivissa)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.56264,40.471926,0 ]
+    },
+    "properties": {
+    "id":4019,
+    "ident":"LEMD",
+    "type":"large_airport",
+    "name":"Adolfo Suárez Madrid–Barajas Airport",
+    "continent":"EU",
+    "iso_country":"ES",
+    "iso_region":"ES-MD",
+    "municipality":"Madrid"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.49911,36.6749,0 ]
+    },
+    "properties": {
+    "id":4020,
+    "ident":"LEMG",
+    "type":"large_airport",
+    "name":"Málaga-Costa del Sol Airport",
+    "continent":"EU",
+    "iso_country":"ES",
+    "iso_region":"ES-AN",
+    "municipality":"Málaga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.73881,39.551701,0 ]
+    },
+    "properties": {
+    "id":4035,
+    "ident":"LEPA",
+    "type":"large_airport",
+    "name":"Palma de Mallorca Airport",
+    "continent":"EU",
+    "iso_country":"ES",
+    "iso_region":"ES-IB",
+    "municipality":"Palma de Mallorca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.41514,42.896301,0 ]
+    },
+    "properties": {
+    "id":4038,
+    "ident":"LEST",
+    "type":"large_airport",
+    "name":"Santiago-Rosalía de Castro Airport",
+    "continent":"EU",
+    "iso_country":"ES",
+    "iso_region":"ES-GA",
+    "municipality":"Santiago de Compostela"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.715556,44.8283,0 ]
+    },
+    "properties": {
+    "id":4060,
+    "ident":"LFBD",
+    "type":"large_airport",
+    "name":"Bordeaux-Mérignac Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-NAQ",
+    "municipality":"Bordeaux/Mérignac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.36382,43.629101,0 ]
+    },
+    "properties": {
+    "id":4070,
+    "ident":"LFBO",
+    "type":"large_airport",
+    "name":"Toulouse-Blagnac Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-OCC",
+    "municipality":"Toulouse/Blagnac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.081111,45.725556,0 ]
+    },
+    "properties": {
+    "id":4137,
+    "ident":"LFLL",
+    "type":"large_airport",
+    "name":"Lyon Saint-Exupéry Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-ARA",
+    "municipality":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.221424103,43.43927192,0 ]
+    },
+    "properties": {
+    "id":4155,
+    "ident":"LFML",
+    "type":"large_airport",
+    "name":"Marseille Provence Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-PAC",
+    "municipality":"Marseille"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.21587,43.658401,0 ]
+    },
+    "properties": {
+    "id":4156,
+    "ident":"LFMN",
+    "type":"large_airport",
+    "name":"Nice-Côte d'Azur Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-PAC",
+    "municipality":"Nice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.55,49.012798,0 ]
+    },
+    "properties": {
+    "id":4185,
+    "ident":"LFPG",
+    "type":"large_airport",
+    "name":"Charles de Gaulle International Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-IDF",
+    "municipality":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.37944,48.72333,0 ]
+    },
+    "properties": {
+    "id":4189,
+    "ident":"LFPO",
+    "type":"large_airport",
+    "name":"Paris-Orly Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-IDF",
+    "municipality":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.529167,47.59,0 ]
+    },
+    "properties": {
+    "id":4226,
+    "ident":"LFSB",
+    "type":"large_airport",
+    "name":"EuroAirport Basel-Mulhouse-Freiburg Airport",
+    "continent":"EU",
+    "iso_country":"FR",
+    "iso_region":"FR-GES",
+    "municipality":"Bâle/Mulhouse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.9445,37.936401,0 ]
+    },
+    "properties": {
+    "id":4251,
+    "ident":"LGAV",
+    "type":"large_airport",
+    "name":"Athens Eleftherios Venizelos International Airport",
+    "continent":"EU",
+    "iso_country":"GR",
+    "iso_region":"GR-I",
+    "municipality":"Athens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.261093,47.42976,0 ]
+    },
+    "properties": {
+    "id":4296,
+    "ident":"LHBP",
+    "type":"large_airport",
+    "name":"Budapest Liszt Ferenc International Airport",
+    "continent":"EU",
+    "iso_country":"HU",
+    "iso_region":"HU-PE",
+    "municipality":"Budapest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.760599,41.138901,0 ]
+    },
+    "properties": {
+    "id":4310,
+    "ident":"LIBD",
+    "type":"large_airport",
+    "name":"Bari Karol Wojtyła Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-75",
+    "municipality":"Bari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.947001,40.6576,0 ]
+    },
+    "properties": {
+    "id":4315,
+    "ident":"LIBR",
+    "type":"large_airport",
+    "name":"Brindisi Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-75",
+    "municipality":"Brindisi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0664,37.466801,0 ]
+    },
+    "properties": {
+    "id":4318,
+    "ident":"LICC",
+    "type":"large_airport",
+    "name":"Catania-Fontanarossa Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-82",
+    "municipality":"Catania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.091,38.175999,0 ]
+    },
+    "properties": {
+    "id":4321,
+    "ident":"LICJ",
+    "type":"large_airport",
+    "name":"Falcone–Borsellino Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-82",
+    "municipality":"Palermo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.05428,39.251499,0 ]
+    },
+    "properties": {
+    "id":4332,
+    "ident":"LIEE",
+    "type":"large_airport",
+    "name":"Cagliari Elmas Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-88",
+    "municipality":"Cagliari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.72811,45.6306,0 ]
+    },
+    "properties": {
+    "id":4340,
+    "ident":"LIMC",
+    "type":"large_airport",
+    "name":"Malpensa International Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-25",
+    "municipality":"Milan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.70417,45.673901,0 ]
+    },
+    "properties": {
+    "id":4341,
+    "ident":"LIME",
+    "type":"large_airport",
+    "name":"Milan Bergamo Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-25",
+    "municipality":"Milan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.64963,45.200802,0 ]
+    },
+    "properties": {
+    "id":4342,
+    "ident":"LIMF",
+    "type":"large_airport",
+    "name":"Turin Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-21",
+    "municipality":"Torino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.2887,44.5354,0 ]
+    },
+    "properties": {
+    "id":4354,
+    "ident":"LIPE",
+    "type":"large_airport",
+    "name":"Bologna Guglielmo Marconi Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-45",
+    "municipality":"Bologna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.887303,45.394955,0 ]
+    },
+    "properties": {
+    "id":4366,
+    "ident":"LIPX",
+    "type":"large_airport",
+    "name":"Verona-Villafranca Valerio Catullo Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-34",
+    "municipality":"Villafranca di Verona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3519,45.505299,0 ]
+    },
+    "properties": {
+    "id":4368,
+    "ident":"LIPZ",
+    "type":"large_airport",
+    "name":"Venice Marco Polo Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-34",
+    "municipality":"Venice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.251998,41.804532,0 ]
+    },
+    "properties": {
+    "id":4372,
+    "ident":"LIRF",
+    "type":"large_airport",
+    "name":"Rome–Fiumicino Leonardo da Vinci International Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-62",
+    "municipality":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2908,40.886002,0 ]
+    },
+    "properties": {
+    "id":4378,
+    "ident":"LIRN",
+    "type":"large_airport",
+    "name":"Naples International Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-72",
+    "municipality":"Napoli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.3927,43.683899,0 ]
+    },
+    "properties": {
+    "id":4379,
+    "ident":"LIRP",
+    "type":"large_airport",
+    "name":"Pisa International Airport",
+    "continent":"EU",
+    "iso_country":"IT",
+    "iso_region":"IT-52",
+    "municipality":"Pisa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4576,46.223701,0 ]
+    },
+    "properties": {
+    "id":4386,
+    "ident":"LJLJ",
+    "type":"large_airport",
+    "name":"Ljubljana Jože Pučnik Airport",
+    "continent":"EU",
+    "iso_country":"SI",
+    "iso_region":"SI-061",
+    "municipality":"Ljubljana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.26,50.1008,0 ]
+    },
+    "properties": {
+    "id":4408,
+    "ident":"LKPR",
+    "type":"large_airport",
+    "name":"Václav Havel Airport Prague",
+    "continent":"EU",
+    "iso_country":"CZ",
+    "iso_region":"CZ-PR",
+    "municipality":"Prague"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.88669968,32.01139832,0 ]
+    },
+    "properties": {
+    "id":4411,
+    "ident":"LLBG",
+    "type":"large_airport",
+    "name":"Ben Gurion International Airport",
+    "continent":"AS",
+    "iso_country":"IL",
+    "iso_region":"IL-M",
+    "municipality":"Tel Aviv"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4775,35.857498,0 ]
+    },
+    "properties": {
+    "id":4427,
+    "ident":"LMML",
+    "type":"large_airport",
+    "name":"Malta International Airport",
+    "continent":"EU",
+    "iso_country":"MT",
+    "iso_region":"MT-25",
+    "municipality":"Valletta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5697,48.110298,0 ]
+    },
+    "properties": {
+    "id":4434,
+    "ident":"LOWW",
+    "type":"large_airport",
+    "name":"Vienna International Airport",
+    "continent":"EU",
+    "iso_country":"AT",
+    "iso_region":"AT-9",
+    "municipality":"Vienna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.965909958,37.01440048,0 ]
+    },
+    "properties": {
+    "id":4448,
+    "ident":"LPFR",
+    "type":"large_airport",
+    "name":"Faro Airport",
+    "continent":"EU",
+    "iso_country":"PT",
+    "iso_region":"PT-08",
+    "municipality":"Faro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -25.69790077,37.74119949,0 ]
+    },
+    "properties": {
+    "id":4456,
+    "ident":"LPPD",
+    "type":"large_airport",
+    "name":"João Paulo II Airport",
+    "continent":"EU",
+    "iso_country":"PT",
+    "iso_region":"PT-20",
+    "municipality":"Ponta Delgada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.681389809,41.24810028,0 ]
+    },
+    "properties": {
+    "id":4459,
+    "ident":"LPPR",
+    "type":"large_airport",
+    "name":"Francisco de Sá Carneiro Airport",
+    "continent":"EU",
+    "iso_country":"PT",
+    "iso_region":"PT-13",
+    "municipality":"Porto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.13592,38.7813,0 ]
+    },
+    "properties": {
+    "id":4461,
+    "ident":"LPPT",
+    "type":"large_airport",
+    "name":"Humberto Delgado Airport (Lisbon Portela Airport)",
+    "continent":"EU",
+    "iso_country":"PT",
+    "iso_region":"PT-11",
+    "municipality":"Lisbon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.085,44.571111,0 ]
+    },
+    "properties": {
+    "id":4482,
+    "ident":"LROP",
+    "type":"large_airport",
+    "name":"Henri Coandă International Airport",
+    "continent":"EU",
+    "iso_country":"RO",
+    "iso_region":"RO-IF",
+    "municipality":"Bucharest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.108950138,46.23809814,0 ]
+    },
+    "properties": {
+    "id":4490,
+    "ident":"LSGG",
+    "type":"large_airport",
+    "name":"Geneva Cointrin International Airport",
+    "continent":"EU",
+    "iso_country":"CH",
+    "iso_region":"CH-GE",
+    "municipality":"Geneva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.548056,47.458056,0 ]
+    },
+    "properties": {
+    "id":4505,
+    "ident":"LSZH",
+    "type":"large_airport",
+    "name":"Zürich Airport",
+    "continent":"EU",
+    "iso_country":"CH",
+    "iso_region":"CH-ZH",
+    "municipality":"Zurich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.99509811,40.12810135,0 ]
+    },
+    "properties": {
+    "id":4509,
+    "ident":"LTAC",
+    "type":"large_airport",
+    "name":"Esenboğa International Airport",
+    "continent":"AS",
+    "iso_country":"TR",
+    "iso_region":"TR-06",
+    "municipality":"Ankara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.800501,36.898701,0 ]
+    },
+    "properties": {
+    "id":4515,
+    "ident":"LTAI",
+    "type":"large_airport",
+    "name":"Antalya International Airport",
+    "continent":"AS",
+    "iso_country":"TR",
+    "iso_region":"TR-07",
+    "municipality":"Antalya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.823714,40.971913,0 ]
+    },
+    "properties": {
+    "id":4528,
+    "ident":"LTBA",
+    "type":"large_airport",
+    "name":"İstanbul Atatürk Airport",
+    "continent":"EU",
+    "iso_country":"TR",
+    "iso_region":"TR-34",
+    "municipality":"Bakırköy, Istanbul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.157,38.2924,0 ]
+    },
+    "properties": {
+    "id":4533,
+    "ident":"LTBJ",
+    "type":"large_airport",
+    "name":"Adnan Menderes International Airport",
+    "continent":"AS",
+    "iso_country":"TR",
+    "iso_region":"TR-35",
+    "municipality":"İzmir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.79249954,36.71310043,0 ]
+    },
+    "properties": {
+    "id":4542,
+    "ident":"LTBS",
+    "type":"large_airport",
+    "name":"Dalaman International Airport",
+    "continent":"AS",
+    "iso_country":"TR",
+    "iso_region":"TR-48",
+    "municipality":"Dalaman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.66430092,37.25059891,0 ]
+    },
+    "properties": {
+    "id":4567,
+    "ident":"LTFE",
+    "type":"large_airport",
+    "name":"Milas Bodrum International Airport",
+    "continent":"AS",
+    "iso_country":"TR",
+    "iso_region":"TR-48",
+    "municipality":"Bodrum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.3092,40.898602,0 ]
+    },
+    "properties": {
+    "id":4569,
+    "ident":"LTFJ",
+    "type":"large_airport",
+    "name":"Istanbul Sabiha Gökçen International Airport",
+    "continent":"AS",
+    "iso_country":"TR",
+    "iso_region":"TR-34",
+    "municipality":"Pendik, Istanbul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.621401,41.961601,0 ]
+    },
+    "properties": {
+    "id":4573,
+    "ident":"LWSK",
+    "type":"large_airport",
+    "name":"Skopje International Airport",
+    "continent":"EU",
+    "iso_country":"MK",
+    "iso_region":"MK-004",
+    "municipality":"Skopje"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.309099,44.818401,0 ]
+    },
+    "properties": {
+    "id":4610,
+    "ident":"LYBE",
+    "type":"large_airport",
+    "name":"Belgrade Nikola Tesla Airport",
+    "continent":"EU",
+    "iso_country":"RS",
+    "iso_region":"RS-00",
+    "municipality":"Belgrade"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2519,42.359402,0 ]
+    },
+    "properties": {
+    "id":4613,
+    "ident":"LYPG",
+    "type":"large_airport",
+    "name":"Podgorica Airport / Podgorica Golubovci Airbase",
+    "continent":"EU",
+    "iso_country":"ME",
+    "iso_region":"ME-16",
+    "municipality":"Podgorica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.21269989,48.17020035,0 ]
+    },
+    "properties": {
+    "id":4617,
+    "ident":"LZIB",
+    "type":"large_airport",
+    "name":"M. R. Štefánik Airport",
+    "continent":"EU",
+    "iso_country":"SK",
+    "iso_region":"SK-BL",
+    "municipality":"Bratislava"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.268321,21.773697,0 ]
+    },
+    "properties": {
+    "id":4628,
+    "ident":"MBPV",
+    "type":"large_airport",
+    "name":"Providenciales International Airport",
+    "continent":"NA",
+    "iso_country":"TC",
+    "iso_region":"TC-PR",
+    "municipality":"Providenciales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.36340332,18.56739998,0 ]
+    },
+    "properties": {
+    "id":4636,
+    "ident":"MDPC",
+    "type":"large_airport",
+    "name":"Punta Cana International Airport",
+    "continent":"NA",
+    "iso_country":"DO",
+    "iso_region":"DO-11",
+    "municipality":"Punta Cana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.66889954,18.42970085,0 ]
+    },
+    "properties": {
+    "id":4638,
+    "ident":"MDSD",
+    "type":"large_airport",
+    "name":"Las Américas International Airport",
+    "continent":"NA",
+    "iso_country":"DO",
+    "iso_region":"DO-01",
+    "municipality":"Santo Domingo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.527496,14.5833,0 ]
+    },
+    "properties": {
+    "id":4644,
+    "ident":"MGGT",
+    "type":"large_airport",
+    "name":"La Aurora Airport",
+    "continent":"NA",
+    "iso_country":"GT",
+    "iso_region":"GT-GU",
+    "municipality":"Guatemala City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.78749847,17.93569946,0 ]
+    },
+    "properties": {
+    "id":4680,
+    "ident":"MKJP",
+    "type":"large_airport",
+    "name":"Norman Manley International Airport",
+    "continent":"NA",
+    "iso_country":"JM",
+    "iso_region":"JM-01",
+    "municipality":"Kingston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.755473,16.762118,0 ]
+    },
+    "properties": {
+    "id":4688,
+    "ident":"MMAA",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Juan N. Álvarez",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-GRO",
+    "municipality":"Ciudad de Acapulco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.930287,20.511425,0 ]
+    },
+    "properties": {
+    "id":4706,
+    "ident":"MMCZ",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional de Cozumel",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-ROO",
+    "municipality":"Ciudad de Cozumel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.533904,24.125908,0 ]
+    },
+    "properties": {
+    "id":4707,
+    "ident":"MMDO",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Gral, Guadalupe Victoria",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-DUR",
+    "municipality":"Ciudad de Durango"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.301557,20.52504,0 ]
+    },
+    "properties": {
+    "id":4710,
+    "ident":"MMGL",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Miguel Hidalgo",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-JAL",
+    "municipality":"Ciudad de Tlajomulco de Zúñiga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0479965,29.09589958,0 ]
+    },
+    "properties": {
+    "id":4713,
+    "ident":"MMHO",
+    "type":"large_airport",
+    "name":"General Ignacio P. Garcia International Airport",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-SON",
+    "municipality":"Hermosillo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.478825,20.985813,0 ]
+    },
+    "properties": {
+    "id":4722,
+    "ident":"MMLO",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Del Bajío",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-GUA",
+    "municipality":"Ciudad de Silao"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.662621,20.933384,0 ]
+    },
+    "properties": {
+    "id":4726,
+    "ident":"MMMD",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Manuel Crescencio Rejón",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-YUC",
+    "municipality":"Ciudad de Mérida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.082432,19.435433,0 ]
+    },
+    "properties": {
+    "id":4731,
+    "ident":"MMMX",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Lic. Benito Juárez",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-DIF",
+    "municipality":"Ciudad de México"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.113602,25.778561,0 ]
+    },
+    "properties": {
+    "id":4732,
+    "ident":"MMMY",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Gral. Mariano Escobedo",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-NLE",
+    "municipality":"Ciudad de Apodaca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270151,23.166689,0 ]
+    },
+    "properties": {
+    "id":4733,
+    "ident":"MMMZ",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Gral. Rafael Buelna",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-SIN",
+    "municipality":"Ciudad de Mazatlàn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.246685,20.679746,0 ]
+    },
+    "properties": {
+    "id":4745,
+    "ident":"MMPR",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Lic. Gustavo Díaz Ordaz",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-JAL",
+    "municipality":"Ciudad de Puerto Vallarta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.716811,23.15642,0 ]
+    },
+    "properties": {
+    "id":4750,
+    "ident":"MMSD",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional de Los Cabos",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-BCS",
+    "municipality":"Ciudad de San José del Cabo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.975856,32.545963,0 ]
+    },
+    "properties": {
+    "id":4757,
+    "ident":"MMTJ",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Gral. Abelardo Rodriguez",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-BCN",
+    "municipality":"Ciudad de Tijuana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.570358,19.338196,0 ]
+    },
+    "properties": {
+    "id":4760,
+    "ident":"MMTO",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Adolfo López Mateos",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-MEX",
+    "municipality":"Ciudad de Toluca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.874304,21.039444,0 ]
+    },
+    "properties": {
+    "id":4762,
+    "ident":"MMUN",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional de Cancún",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-ROO",
+    "municipality":"Ciudad de Cancún"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.38349915,9.071359634,0 ]
+    },
+    "properties": {
+    "id":4793,
+    "ident":"MPTO",
+    "type":"large_airport",
+    "name":"Tocumen International Airport",
+    "continent":"NA",
+    "iso_country":"PA",
+    "iso_region":"PA-8",
+    "municipality":"Tocumen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.544403,10.5933,0 ]
+    },
+    "properties": {
+    "id":4806,
+    "ident":"MRLB",
+    "type":"large_airport",
+    "name":"Guanacaste Airport",
+    "continent":"NA",
+    "iso_country":"CR",
+    "iso_region":"CR-G",
+    "municipality":"Liberia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.055702,13.4409,0 ]
+    },
+    "properties": {
+    "id":4820,
+    "ident":"MSLP",
+    "type":"large_airport",
+    "name":"Monseñor Óscar Arnulfo Romero International Airport",
+    "continent":"NA",
+    "iso_country":"SV",
+    "iso_region":"SV-PA",
+    "municipality":"San Salvador (San Luis Talpa)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.292503,18.58,0 ]
+    },
+    "properties": {
+    "id":4825,
+    "ident":"MTPP",
+    "type":"large_airport",
+    "name":"Toussaint Louverture International Airport",
+    "continent":"NA",
+    "iso_country":"HT",
+    "iso_region":"HT-OU",
+    "municipality":"Port-au-Prince"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.40910339,22.98920059,0 ]
+    },
+    "properties": {
+    "id":4839,
+    "ident":"MUHA",
+    "type":"large_airport",
+    "name":"José Martí International Airport",
+    "continent":"NA",
+    "iso_country":"CU",
+    "iso_region":"CU-03",
+    "municipality":"Havana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.435303,23.034401,0 ]
+    },
+    "properties": {
+    "id":4859,
+    "ident":"MUVR",
+    "type":"large_airport",
+    "name":"Juan Gualberto Gomez International Airport",
+    "continent":"NA",
+    "iso_country":"CU",
+    "iso_region":"CU-04",
+    "municipality":"Matanzas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.35769653,19.2928009,0 ]
+    },
+    "properties": {
+    "id":4862,
+    "ident":"MWCR",
+    "type":"large_airport",
+    "name":"Owen Roberts International Airport",
+    "continent":"NA",
+    "iso_country":"KY",
+    "iso_region":"KY-U-A",
+    "municipality":"Georgetown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.466202,25.039,0 ]
+    },
+    "properties": {
+    "id":4951,
+    "ident":"MYNN",
+    "type":"large_airport",
+    "name":"Lynden Pindling International Airport",
+    "continent":"NA",
+    "iso_country":"BS",
+    "iso_region":"BS-NP",
+    "municipality":"Nassau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.303556,17.539951,0 ]
+    },
+    "properties": {
+    "id":4956,
+    "ident":"MZBZ",
+    "type":"large_airport",
+    "name":"Philip S. W. Goldson International Airport",
+    "continent":"NA",
+    "iso_country":"BZ",
+    "iso_region":"BZ-BZ",
+    "municipality":"Belize City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.606995,-17.553699,0 ]
+    },
+    "properties": {
+    "id":4979,
+    "ident":"NTAA",
+    "type":"large_airport",
+    "name":"Faa'a International Airport",
+    "continent":"OC",
+    "iso_country":"PF",
+    "iso_region":"PF-U-A",
+    "municipality":"Papeete"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.320007,-17.699301,0 ]
+    },
+    "properties": {
+    "id":5011,
+    "ident":"NVVV",
+    "type":"large_airport",
+    "name":"Bauerfield International Airport",
+    "continent":"OC",
+    "iso_country":"VU",
+    "iso_region":"VU-SEE",
+    "municipality":"Port Vila"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.473007,-22.258301,0 ]
+    },
+    "properties": {
+    "id":5017,
+    "ident":"NWWM",
+    "type":"large_airport",
+    "name":"Nouméa Magenta Airport",
+    "continent":"OC",
+    "iso_country":"NC",
+    "iso_region":"NC-U-A",
+    "municipality":"Nouméa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.786331,-37.01199,0 ]
+    },
+    "properties": {
+    "id":5023,
+    "ident":"NZAA",
+    "type":"large_airport",
+    "name":"Auckland International Airport",
+    "continent":"OC",
+    "iso_country":"NZ",
+    "iso_region":"NZ-AUK",
+    "municipality":"Auckland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.5319977,-43.48939896,0 ]
+    },
+    "properties": {
+    "id":5026,
+    "ident":"NZCH",
+    "type":"large_airport",
+    "name":"Christchurch International Airport",
+    "continent":"OC",
+    "iso_country":"NZ",
+    "iso_region":"NZ-CAN",
+    "municipality":"Christchurch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.8049927,-41.32720184,0 ]
+    },
+    "properties": {
+    "id":5063,
+    "ident":"NZWN",
+    "type":"large_airport",
+    "name":"Wellington International Airport",
+    "continent":"OC",
+    "iso_country":"NZ",
+    "iso_region":"NZ-WGN",
+    "municipality":"Wellington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.63764,26.267295,0 ]
+    },
+    "properties": {
+    "id":5079,
+    "ident":"OBBI",
+    "type":"large_airport",
+    "name":"Bahrain International Airport",
+    "continent":"AS",
+    "iso_country":"BH",
+    "iso_region":"BH-15",
+    "municipality":"Manama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.79790115,26.47120094,0 ]
+    },
+    "properties": {
+    "id":5087,
+    "ident":"OEDF",
+    "type":"large_airport",
+    "name":"King Fahd International Airport",
+    "continent":"AS",
+    "iso_country":"SA",
+    "iso_region":"SA-04",
+    "municipality":"Ad Dammam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.152,26.2654,0 ]
+    },
+    "properties": {
+    "id":5089,
+    "ident":"OEDR",
+    "type":"large_airport",
+    "name":"King Abdulaziz Air Base",
+    "continent":"AS",
+    "iso_country":"SA",
+    "iso_region":"SA-04",
+    "municipality":"Dhahran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.156502,21.6796,0 ]
+    },
+    "properties": {
+    "id":5097,
+    "ident":"OEJN",
+    "type":"large_airport",
+    "name":"King Abdulaziz International Airport",
+    "continent":"AS",
+    "iso_country":"SA",
+    "iso_region":"SA-02",
+    "municipality":"Jeddah"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.705101,24.5534,0 ]
+    },
+    "properties": {
+    "id":5101,
+    "ident":"OEMA",
+    "type":"large_airport",
+    "name":"Prince Mohammad Bin Abdulaziz Airport",
+    "continent":"AS",
+    "iso_country":"SA",
+    "iso_region":"SA-03",
+    "municipality":"Medina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.69879913,24.95759964,0 ]
+    },
+    "properties": {
+    "id":5112,
+    "ident":"OERK",
+    "type":"large_airport",
+    "name":"King Khaled International Airport",
+    "continent":"AS",
+    "iso_country":"SA",
+    "iso_region":"SA-01",
+    "municipality":"Riyadh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.15219879,35.41609955,0 ]
+    },
+    "properties": {
+    "id":5166,
+    "ident":"OIIE",
+    "type":"large_airport",
+    "name":"Imam Khomeini International Airport",
+    "continent":"AS",
+    "iso_country":"IR",
+    "iso_region":"IR-23",
+    "municipality":"Tehran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.31340027,35.68920135,0 ]
+    },
+    "properties": {
+    "id":5168,
+    "ident":"OIII",
+    "type":"large_airport",
+    "name":"Mehrabad International Airport",
+    "continent":"AS",
+    "iso_country":"IR",
+    "iso_region":"IR-23",
+    "municipality":"Tehran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.64099884,36.23519897,0 ]
+    },
+    "properties": {
+    "id":5183,
+    "ident":"OIMM",
+    "type":"large_airport",
+    "name":"Mashhad International Airport",
+    "continent":"AS",
+    "iso_country":"IR",
+    "iso_region":"IR-09",
+    "municipality":"Mashhad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.589802,29.5392,0 ]
+    },
+    "properties": {
+    "id":5197,
+    "ident":"OISS",
+    "type":"large_airport",
+    "name":"Shiraz Shahid Dastghaib International Airport",
+    "continent":"AS",
+    "iso_country":"IR",
+    "iso_region":"IR-07",
+    "municipality":"Shiraz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.99319839,31.72260094,0 ]
+    },
+    "properties": {
+    "id":5212,
+    "ident":"OJAI",
+    "type":"large_airport",
+    "name":"Queen Alia International Airport",
+    "continent":"AS",
+    "iso_country":"JO",
+    "iso_region":"JO-AM",
+    "municipality":"Amman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.968899,29.226601,0 ]
+    },
+    "properties": {
+    "id":5220,
+    "ident":"OKBK",
+    "type":"large_airport",
+    "name":"Kuwait International Airport",
+    "continent":"AS",
+    "iso_country":"KW",
+    "iso_region":"KW-FA",
+    "municipality":"Kuwait City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.48839951,33.82089996,0 ]
+    },
+    "properties": {
+    "id":5222,
+    "ident":"OLBA",
+    "type":"large_airport",
+    "name":"Beirut Rafic Hariri International Airport",
+    "continent":"AS",
+    "iso_country":"LB",
+    "iso_region":"LB-JL",
+    "municipality":"Beirut"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.651718,24.443764,0 ]
+    },
+    "properties": {
+    "id":5226,
+    "ident":"OMAA",
+    "type":"large_airport",
+    "name":"Abu Dhabi International Airport",
+    "continent":"AS",
+    "iso_country":"AE",
+    "iso_region":"AE-AZ",
+    "municipality":"Abu Dhabi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.36439896,25.25279999,0 ]
+    },
+    "properties": {
+    "id":5235,
+    "ident":"OMDB",
+    "type":"large_airport",
+    "name":"Dubai International Airport",
+    "continent":"AS",
+    "iso_country":"AE",
+    "iso_region":"AE-DU",
+    "municipality":"Dubai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.51720047,25.32859993,0 ]
+    },
+    "properties": {
+    "id":5239,
+    "ident":"OMSJ",
+    "type":"large_airport",
+    "name":"Sharjah International Airport",
+    "continent":"AS",
+    "iso_country":"AE",
+    "iso_region":"AE-SH",
+    "municipality":"Sharjah"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.28440094,23.59329987,0 ]
+    },
+    "properties": {
+    "id":5242,
+    "ident":"OOMS",
+    "type":"large_airport",
+    "name":"Muscat International Airport",
+    "continent":"AS",
+    "iso_country":"OM",
+    "iso_region":"OM-MA",
+    "municipality":"Muscat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.160797,24.9065,0 ]
+    },
+    "properties": {
+    "id":5255,
+    "ident":"OPKC",
+    "type":"large_airport",
+    "name":"Jinnah International Airport",
+    "continent":"AS",
+    "iso_country":"PK",
+    "iso_region":"PK-SD",
+    "municipality":"Karachi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.403603,31.521601,0 ]
+    },
+    "properties": {
+    "id":5257,
+    "ident":"OPLA",
+    "type":"large_airport",
+    "name":"Allama Iqbal International Airport",
+    "continent":"AS",
+    "iso_country":"PK",
+    "iso_region":"PK-PB",
+    "municipality":"Lahore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2346,33.262501,0 ]
+    },
+    "properties": {
+    "id":5289,
+    "ident":"ORBI",
+    "type":"large_airport",
+    "name":"Baghdad International Airport / New Al Muthana Air Base",
+    "continent":"AS",
+    "iso_country":"IQ",
+    "iso_region":"IQ-BG",
+    "municipality":"Baghdad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5155983,33.41149902,0 ]
+    },
+    "properties": {
+    "id":5303,
+    "ident":"OSDI",
+    "type":"large_airport",
+    "name":"Damascus International Airport",
+    "continent":"AS",
+    "iso_country":"SY",
+    "iso_region":"SY-DI",
+    "municipality":"Damascus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.8560028,64.81510162,0 ]
+    },
+    "properties": {
+    "id":5360,
+    "ident":"PAFA",
+    "type":"large_airport",
+    "name":"Fairbanks International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-AK",
+    "municipality":"Fairbanks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.996002,61.1744,0 ]
+    },
+    "properties": {
+    "id":5388,
+    "ident":"PANC",
+    "type":"large_airport",
+    "name":"Ted Stevens Anchorage International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-AK",
+    "municipality":"Anchorage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.796005,13.4834,0 ]
+    },
+    "properties": {
+    "id":5433,
+    "ident":"PGUM",
+    "type":"large_airport",
+    "name":"Antonio B. Won Pat International Airport",
+    "continent":"OC",
+    "iso_country":"GU",
+    "iso_region":"GU-U-A",
+    "municipality":"Hagåtña"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.924228,21.32062,0 ]
+    },
+    "properties": {
+    "id":5453,
+    "ident":"PHNL",
+    "type":"large_airport",
+    "name":"Daniel K Inouye International Airport",
+    "continent":"OC",
+    "iso_country":"US",
+    "iso_region":"US-HI",
+    "municipality":"Honolulu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.349998,22.577101,0 ]
+    },
+    "properties": {
+    "id":5516,
+    "ident":"RCKH",
+    "type":"large_airport",
+    "name":"Kaohsiung International Airport",
+    "continent":"AS",
+    "iso_country":"TW",
+    "iso_region":"TW-KHH",
+    "municipality":"Kaohsiung (Xiaogang)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.233002,25.0777,0 ]
+    },
+    "properties": {
+    "id":5528,
+    "ident":"RCTP",
+    "type":"large_airport",
+    "name":"Taiwan Taoyuan International Airport",
+    "continent":"AS",
+    "iso_country":"TW",
+    "iso_region":"TW-TAO",
+    "municipality":"Taoyuan (Dayuan)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.386002,35.764702,0 ]
+    },
+    "properties": {
+    "id":5531,
+    "ident":"RJAA",
+    "type":"large_airport",
+    "name":"Narita International Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-12",
+    "municipality":"Narita"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.244003,34.427299,0 ]
+    },
+    "properties": {
+    "id":5536,
+    "ident":"RJBB",
+    "type":"large_airport",
+    "name":"Kansai International Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-27",
+    "municipality":"Osaka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.692001,42.7752,0 ]
+    },
+    "properties": {
+    "id":5544,
+    "ident":"RJCC",
+    "type":"large_airport",
+    "name":"New Chitose Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-01",
+    "municipality":"Sapporo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.451004,33.58589935,0 ]
+    },
+    "properties": {
+    "id":5564,
+    "ident":"RJFF",
+    "type":"large_airport",
+    "name":"Fukuoka Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-40",
+    "municipality":"Fukuoka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.7189941,31.80340004,0 ]
+    },
+    "properties": {
+    "id":5566,
+    "ident":"RJFK",
+    "type":"large_airport",
+    "name":"Kagoshima Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-46",
+    "municipality":"Kagoshima"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.8049927,34.85839844,0 ]
+    },
+    "properties": {
+    "id":5576,
+    "ident":"RJGG",
+    "type":"large_airport",
+    "name":"Chubu Centrair International Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-23",
+    "municipality":"Tokoname"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.4380035,34.78549957,0 ]
+    },
+    "properties": {
+    "id":5598,
+    "ident":"RJOO",
+    "type":"large_airport",
+    "name":"Osaka International Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-27",
+    "municipality":"Osaka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.917007,38.139702,0 ]
+    },
+    "properties": {
+    "id":5615,
+    "ident":"RJSS",
+    "type":"large_airport",
+    "name":"Sendai Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-04",
+    "municipality":"Natori"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.779999,35.552299,0 ]
+    },
+    "properties": {
+    "id":5627,
+    "ident":"RJTT",
+    "type":"large_airport",
+    "name":"Tokyo Haneda International Airport",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-13",
+    "municipality":"Tokyo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.348007,35.748501,0 ]
+    },
+    "properties": {
+    "id":5629,
+    "ident":"RJTY",
+    "type":"large_airport",
+    "name":"Yokota Air Base",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-13",
+    "municipality":"Fussa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.492548,33.512058,0 ]
+    },
+    "properties": {
+    "id":5639,
+    "ident":"RKPC",
+    "type":"large_airport",
+    "name":"Jeju International Airport",
+    "continent":"AS",
+    "iso_country":"KR",
+    "iso_region":"KR-49",
+    "municipality":"Jeju City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.938004,35.179501,0 ]
+    },
+    "properties": {
+    "id":5642,
+    "ident":"RKPK",
+    "type":"large_airport",
+    "name":"Gimhae International Airport",
+    "continent":"AS",
+    "iso_country":"KR",
+    "iso_region":"KR-26",
+    "municipality":"Busan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.4509964,37.46910095,0 ]
+    },
+    "properties": {
+    "id":5653,
+    "ident":"RKSI",
+    "type":"large_airport",
+    "name":"Incheon International Airport",
+    "continent":"AS",
+    "iso_country":"KR",
+    "iso_region":"KR-28",
+    "municipality":"Seoul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.791,37.5583,0 ]
+    },
+    "properties": {
+    "id":5656,
+    "ident":"RKSS",
+    "type":"large_airport",
+    "name":"Gimpo International Airport",
+    "continent":"AS",
+    "iso_country":"KR",
+    "iso_region":"KR-11",
+    "municipality":"Seoul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.646004,26.195801,0 ]
+    },
+    "properties": {
+    "id":5671,
+    "ident":"ROAH",
+    "type":"large_airport",
+    "name":"Naha Airport / JASDF Naha Air Base",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-47",
+    "municipality":"Naha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.769444,26.351667,0 ]
+    },
+    "properties": {
+    "id":5673,
+    "ident":"RODN",
+    "type":"large_airport",
+    "name":"Kadena Air Base",
+    "continent":"AS",
+    "iso_country":"JP",
+    "iso_region":"JP-47",
+    "municipality":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.019997,14.5086,0 ]
+    },
+    "properties": {
+    "id":5689,
+    "ident":"RPLL",
+    "type":"large_airport",
+    "name":"Ninoy Aquino International Airport",
+    "continent":"AS",
+    "iso_country":"PH",
+    "iso_region":"PH-00",
+    "municipality":"Manila"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.646004,7.12552,0 ]
+    },
+    "properties": {
+    "id":5697,
+    "ident":"RPMD",
+    "type":"large_airport",
+    "name":"Francisco Bangoy International Airport",
+    "continent":"AS",
+    "iso_country":"PH",
+    "iso_region":"PH-DAS",
+    "municipality":"Davao"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.97974,10.309261,0 ]
+    },
+    "properties": {
+    "id":5742,
+    "ident":"RPVM",
+    "type":"large_airport",
+    "name":"Mactan Cebu International Airport",
+    "continent":"AS",
+    "iso_country":"PH",
+    "iso_region":"PH-CEB",
+    "municipality":"Lapu-Lapu City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.4156,-34.5592,0 ]
+    },
+    "properties": {
+    "id":5771,
+    "ident":"SABE",
+    "type":"large_airport",
+    "name":"Jorge Newbery Airpark",
+    "continent":"SA",
+    "iso_country":"AR",
+    "iso_region":"AR-C",
+    "municipality":"Buenos Aires"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.5358,-34.8222,0 ]
+    },
+    "properties": {
+    "id":5781,
+    "ident":"SAEZ",
+    "type":"large_airport",
+    "name":"Minister Pistarini International Airport",
+    "continent":"SA",
+    "iso_country":"AR",
+    "iso_region":"AR-B",
+    "municipality":"Buenos Aires (Ezeiza)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.476207,-1.379279,0 ]
+    },
+    "properties": {
+    "id":5867,
+    "ident":"SBBE",
+    "type":"large_airport",
+    "name":"Val de Cans/Júlio Cezar Ribeiro International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-PA",
+    "municipality":"Belém"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -47.920834,-15.869167,0 ]
+    },
+    "properties": {
+    "id":5872,
+    "ident":"SBBR",
+    "type":"large_airport",
+    "name":"Presidente Juscelino Kubitschek International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-DF",
+    "municipality":"Brasília"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.966928,-19.63571,0 ]
+    },
+    "properties": {
+    "id":5882,
+    "ident":"SBCF",
+    "type":"large_airport",
+    "name":"Tancredo Neves International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-MG",
+    "municipality":"Belo Horizonte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.049702,-3.03861,0 ]
+    },
+    "properties": {
+    "id":5897,
+    "ident":"SBEG",
+    "type":"large_airport",
+    "name":"Eduardo Gomes International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-AM",
+    "municipality":"Manaus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.552502,-27.670279,0 ]
+    },
+    "properties": {
+    "id":5901,
+    "ident":"SBFL",
+    "type":"large_airport",
+    "name":"Hercílio Luz International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-SC",
+    "municipality":"Florianópolis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.250557,-22.809999,0 ]
+    },
+    "properties": {
+    "id":5906,
+    "ident":"SBGL",
+    "type":"large_airport",
+    "name":"Rio Galeão – Tom Jobim International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-RJ",
+    "municipality":"Rio De Janeiro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.467778,-23.431944,0 ]
+    },
+    "properties": {
+    "id":5910,
+    "ident":"SBGR",
+    "type":"large_airport",
+    "name":"Guarulhos - Governador André Franco Montoro International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-SP",
+    "municipality":"São Paulo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -38.322498,-12.908611,0 ]
+    },
+    "properties": {
+    "id":5977,
+    "ident":"SBSV",
+    "type":"large_airport",
+    "name":"Deputado Luiz Eduardo Magalhães International Airport",
+    "continent":"SA",
+    "iso_country":"BR",
+    "iso_region":"BR-BA",
+    "municipality":"Salvador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.78579712,-33.39300156,0 ]
+    },
+    "properties": {
+    "id":6015,
+    "ident":"SCEL",
+    "type":"large_airport",
+    "name":"Comodoro Arturo Merino Benítez International Airport",
+    "continent":"SA",
+    "iso_country":"CL",
+    "iso_region":"CL-RM",
+    "municipality":"Santiago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.883598,-2.15742,0 ]
+    },
+    "properties": {
+    "id":6056,
+    "ident":"SEGU",
+    "type":"large_airport",
+    "name":"José Joaquín de Olmedo International Airport",
+    "continent":"SA",
+    "iso_country":"EC",
+    "iso_region":"EC-G",
+    "municipality":"Guayaquil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.514104,-25.241736,0 ]
+    },
+    "properties": {
+    "id":6088,
+    "ident":"SGAS",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Silvio Pettirossi",
+    "continent":"SA",
+    "iso_country":"PY",
+    "iso_region":"PY-11",
+    "municipality":"Luque"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.839544,-25.457186,0 ]
+    },
+    "properties": {
+    "id":6091,
+    "ident":"SGES",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Guaraní",
+    "continent":"SA",
+    "iso_country":"PY",
+    "iso_region":"PY-10",
+    "municipality":"Ciudad del Este"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.620284,-22.032463,0 ]
+    },
+    "properties": {
+    "id":6093,
+    "ident":"SGME",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Dr. Luis Maria Argaña",
+    "continent":"SA",
+    "iso_country":"PY",
+    "iso_region":"PY-19",
+    "municipality":"Mariscal Estigarribia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.832005,-22.640946,0 ]
+    },
+    "properties": {
+    "id":6095,
+    "ident":"SGPJ",
+    "type":"large_airport",
+    "name":"Aeropuerto Internacional Dr. Augusto Roberto Fuster",
+    "continent":"SA",
+    "iso_country":"PY",
+    "iso_region":"PY-13",
+    "municipality":"Pedro Juan Caballero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1469,4.70159,0 ]
+    },
+    "properties": {
+    "id":6104,
+    "ident":"SKBO",
+    "type":"large_airport",
+    "name":"El Dorado International Airport",
+    "continent":"SA",
+    "iso_country":"CO",
+    "iso_region":"CO-CUN",
+    "municipality":"Bogota"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.135399,-17.6448,0 ]
+    },
+    "properties": {
+    "id":6193,
+    "ident":"SLVR",
+    "type":"large_airport",
+    "name":"Viru Viru International Airport",
+    "continent":"SA",
+    "iso_country":"BO",
+    "iso_region":"BO-S",
+    "municipality":"Santa Cruz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.187801,5.45283,0 ]
+    },
+    "properties": {
+    "id":6195,
+    "ident":"SMJP",
+    "type":"large_airport",
+    "name":"Johan Adolf Pengel International Airport",
+    "continent":"SA",
+    "iso_country":"SR",
+    "iso_region":"SR-PR",
+    "municipality":"Zandery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.361326,4.819964,0 ]
+    },
+    "properties": {
+    "id":6198,
+    "ident":"SOCA",
+    "type":"large_airport",
+    "name":"Cayenne – Félix Eboué Airport",
+    "continent":"SA",
+    "iso_country":"GF",
+    "iso_region":"GF-CY",
+    "municipality":"Matoury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.114305,-12.0219,0 ]
+    },
+    "properties": {
+    "id":6217,
+    "ident":"SPIM",
+    "type":"large_airport",
+    "name":"Jorge Chávez International Airport",
+    "continent":"SA",
+    "iso_country":"PE",
+    "iso_region":"PE-LIM",
+    "municipality":"Lima"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.938797,-13.53569984,0 ]
+    },
+    "properties": {
+    "id":6243,
+    "ident":"SPZO",
+    "type":"large_airport",
+    "name":"Alejandro Velasco Astete International Airport",
+    "continent":"SA",
+    "iso_country":"PE",
+    "iso_region":"PE-CUS",
+    "municipality":"Cusco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.026497,-34.835647,0 ]
+    },
+    "properties": {
+    "id":6247,
+    "ident":"SUMU",
+    "type":"large_airport",
+    "name":"Carrasco General Cesáreo L. Berisso International Airport",
+    "continent":"SA",
+    "iso_country":"UY",
+    "iso_region":"UY-CA",
+    "municipality":"Ciudad de la Costa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.692222,10.111111,0 ]
+    },
+    "properties": {
+    "id":6255,
+    "ident":"SVBC",
+    "type":"large_airport",
+    "name":"General José Antonio Anzoategui International Airport",
+    "continent":"SA",
+    "iso_country":"VE",
+    "iso_region":"VE-B",
+    "municipality":"Barcelona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.991222,10.601194,0 ]
+    },
+    "properties": {
+    "id":6300,
+    "ident":"SVMI",
+    "type":"large_airport",
+    "name":"Simón Bolívar International Airport",
+    "continent":"SA",
+    "iso_country":"VE",
+    "iso_region":"VE-X",
+    "municipality":"Caracas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.003201,14.591,0 ]
+    },
+    "properties": {
+    "id":6363,
+    "ident":"TFFF",
+    "type":"large_airport",
+    "name":"Martinique Aimé Césaire International Airport",
+    "continent":"NA",
+    "iso_country":"MQ",
+    "iso_region":"MQ-U-A",
+    "municipality":"Fort-de-France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.531799,16.265301,0 ]
+    },
+    "properties": {
+    "id":6366,
+    "ident":"TFFR",
+    "type":"large_airport",
+    "name":"Pointe-à-Pitre Le Raizet International  Airport",
+    "continent":"NA",
+    "iso_country":"GP",
+    "iso_region":"GP-U-A",
+    "municipality":"Pointe-à-Pitre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.00180054,18.43939972,0 ]
+    },
+    "properties": {
+    "id":6384,
+    "ident":"TJSJ",
+    "type":"large_airport",
+    "name":"Luis Munoz Marin International Airport",
+    "continent":"NA",
+    "iso_country":"PR",
+    "iso_region":"PR-U-A",
+    "municipality":"San Juan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.952599,13.7332,0 ]
+    },
+    "properties": {
+    "id":6389,
+    "ident":"TLPL",
+    "type":"large_airport",
+    "name":"Hewanorra International Airport",
+    "continent":"NA",
+    "iso_country":"LC",
+    "iso_region":"LC-11",
+    "municipality":"Vieux Fort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.015198,12.5014,0 ]
+    },
+    "properties": {
+    "id":6402,
+    "ident":"TNCA",
+    "type":"large_airport",
+    "name":"Queen Beatrix International Airport",
+    "continent":"NA",
+    "iso_country":"AW",
+    "iso_region":"AW-U-A",
+    "municipality":"Oranjestad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.268501,12.131,0 ]
+    },
+    "properties": {
+    "id":6403,
+    "ident":"TNCB",
+    "type":"large_airport",
+    "name":"Flamingo International Airport",
+    "continent":"NA",
+    "iso_country":"BQ",
+    "iso_region":"BQ-U-A",
+    "municipality":"Kralendijk, Bonaire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.959801,12.1889,0 ]
+    },
+    "properties": {
+    "id":6404,
+    "ident":"TNCC",
+    "type":"large_airport",
+    "name":"Hato International Airport",
+    "continent":"NA",
+    "iso_country":"CW",
+    "iso_region":"CW-U-A",
+    "municipality":"Willemstad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.108898,18.041,0 ]
+    },
+    "properties": {
+    "id":6406,
+    "ident":"TNCM",
+    "type":"large_airport",
+    "name":"Princess Juliana International Airport",
+    "continent":"NA",
+    "iso_country":"SX",
+    "iso_region":"SX-U-A",
+    "municipality":"Saint Martin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.042828,43.354267,0 ]
+    },
+    "properties": {
+    "id":6421,
+    "ident":"UAAA",
+    "type":"large_airport",
+    "name":"Almaty International Airport",
+    "continent":"AS",
+    "iso_country":"KZ",
+    "iso_region":"KZ-ALA",
+    "municipality":"Almaty"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.466904,51.022202,0 ]
+    },
+    "properties": {
+    "id":6423,
+    "ident":"UACC",
+    "type":"large_airport",
+    "name":"Nursultan Nazarbayev International Airport",
+    "continent":"AS",
+    "iso_country":"KZ",
+    "iso_region":"KZ-AKM",
+    "municipality":"Nur-Sultan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.4776001,43.06129837,0 ]
+    },
+    "properties": {
+    "id":6426,
+    "ident":"UAFM",
+    "type":"large_airport",
+    "name":"Manas International Airport",
+    "continent":"AS",
+    "iso_country":"KG",
+    "iso_region":"KG-C",
+    "municipality":"Bishkek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.04669952,40.46749878,0 ]
+    },
+    "properties": {
+    "id":6440,
+    "ident":"UBBB",
+    "type":"large_airport",
+    "name":"Heydar Aliyev International Airport",
+    "continent":"AS",
+    "iso_country":"AZ",
+    "iso_region":"AZ-BA",
+    "municipality":"Baku"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.39590073,40.14730072,0 ]
+    },
+    "properties": {
+    "id":6446,
+    "ident":"UDYZ",
+    "type":"large_airport",
+    "name":"Zvartnots International Airport",
+    "continent":"AS",
+    "iso_country":"AM",
+    "iso_region":"AM-ER",
+    "municipality":"Yerevan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.95470047,41.6692009,0 ]
+    },
+    "properties": {
+    "id":6453,
+    "ident":"UGTB",
+    "type":"large_airport",
+    "name":"Tbilisi International Airport",
+    "continent":"AS",
+    "iso_country":"GE",
+    "iso_region":"GE-TB",
+    "municipality":"Tbilisi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.148155,43.396256,0 ]
+    },
+    "properties": {
+    "id":6462,
+    "ident":"UHWW",
+    "type":"large_airport",
+    "name":"Vladivostok International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-PRI",
+    "municipality":"Artyom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.894699,50.345001,0 ]
+    },
+    "properties": {
+    "id":6467,
+    "ident":"UKBB",
+    "type":"large_airport",
+    "name":"Boryspil International Airport",
+    "continent":"EU",
+    "iso_country":"UA",
+    "iso_region":"UA-32",
+    "municipality":"Boryspil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.9561,49.8125,0 ]
+    },
+    "properties": {
+    "id":6481,
+    "ident":"UKLL",
+    "type":"large_airport",
+    "name":"Lviv International Airport",
+    "continent":"EU",
+    "iso_country":"UA",
+    "iso_region":"UA-46",
+    "municipality":"Lviv"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.26250076,59.8003006,0 ]
+    },
+    "properties": {
+    "id":6489,
+    "ident":"ULLI",
+    "type":"large_airport",
+    "name":"Pulkovo Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-SPE",
+    "municipality":"St. Petersburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.039964,53.888071,0 ]
+    },
+    "properties": {
+    "id":6501,
+    "ident":"UMMS",
+    "type":"large_airport",
+    "name":"Minsk National Airport",
+    "continent":"EU",
+    "iso_country":"BY",
+    "iso_region":"BY-MI",
+    "municipality":"Minsk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.492437,56.173077,0 ]
+    },
+    "properties": {
+    "id":6506,
+    "ident":"UNKL",
+    "type":"large_airport",
+    "name":"Krasnoyarsk International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-KYA",
+    "municipality":"Krasnoyarsk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.618675,55.019756,0 ]
+    },
+    "properties": {
+    "id":6507,
+    "ident":"UNNT",
+    "type":"large_airport",
+    "name":"Novosibirsk Tolmachevo Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-NVS",
+    "municipality":"Novosibirsk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.9566,43.449902,0 ]
+    },
+    "properties": {
+    "id":6519,
+    "ident":"URSS",
+    "type":"large_airport",
+    "name":"Sochi International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-KDA",
+    "municipality":"Sochi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.094002,34.213699,0 ]
+    },
+    "properties": {
+    "id":19517,
+    "ident":"KCMA",
+    "type":"large_airport",
+    "name":"Camarillo International Airport",
+    "continent":"NA",
+    "iso_country":"US",
+    "iso_region":"US-CA",
+    "municipality":"Camarillo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 60.80270004,56.74309921,0 ]
+    },
+    "properties": {
+    "id":26378,
+    "ident":"USSS",
+    "type":"large_airport",
+    "name":"Koltsovo Airport",
+    "continent":"AS",
+    "iso_country":"RU",
+    "iso_region":"RU-SVE",
+    "municipality":"Yekaterinburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.361,37.986801,0 ]
+    },
+    "properties": {
+    "id":26380,
+    "ident":"UTAA",
+    "type":"large_airport",
+    "name":"Ashgabat International Airport",
+    "continent":"AS",
+    "iso_country":"TM",
+    "iso_region":"TM-S",
+    "municipality":"Ashgabat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.28119659,41.25790024,0 ]
+    },
+    "properties": {
+    "id":26392,
+    "ident":"UTTT",
+    "type":"large_airport",
+    "name":"Tashkent International Airport",
+    "continent":"AS",
+    "iso_country":"UZ",
+    "iso_region":"UZ-TO",
+    "municipality":"Tashkent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.90629959,55.40879822,0 ]
+    },
+    "properties": {
+    "id":26394,
+    "ident":"UUDD",
+    "type":"large_airport",
+    "name":"Domodedovo International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-MOS",
+    "municipality":"Moscow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4146,55.972599,0 ]
+    },
+    "properties": {
+    "id":26396,
+    "ident":"UUEE",
+    "type":"large_airport",
+    "name":"Sheremetyevo International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-MOS",
+    "municipality":"Moscow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.26150131,55.59149933,0 ]
+    },
+    "properties": {
+    "id":26401,
+    "ident":"UUWW",
+    "type":"large_airport",
+    "name":"Vnukovo International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-MOS",
+    "municipality":"Moscow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.27870178,55.60620117,0 ]
+    },
+    "properties": {
+    "id":26404,
+    "ident":"UWKD",
+    "type":"large_airport",
+    "name":"Kazan International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-TA",
+    "municipality":"Kazan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.87440109,54.55749893,0 ]
+    },
+    "properties": {
+    "id":26411,
+    "ident":"UWUU",
+    "type":"large_airport",
+    "name":"Ufa International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-BA",
+    "municipality":"Ufa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.16429901,53.50490189,0 ]
+    },
+    "properties": {
+    "id":26412,
+    "ident":"UWWW",
+    "type":"large_airport",
+    "name":"Kurumoch International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-SAM",
+    "municipality":"Samara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.86789703,19.08869934,0 ]
+    },
+    "properties": {
+    "id":26434,
+    "ident":"VABB",
+    "type":"large_airport",
+    "name":"Chhatrapati Shivaji International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-MM",
+    "municipality":"Mumbai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.831398,15.3808,0 ]
+    },
+    "properties": {
+    "id":26444,
+    "ident":"VAGO",
+    "type":"large_airport",
+    "name":"Dabolim Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-GA",
+    "municipality":"Vasco da Gama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.88410187,7.180759907,0 ]
+    },
+    "properties": {
+    "id":26463,
+    "ident":"VCBI",
+    "type":"large_airport",
+    "name":"Bandaranaike International Colombo Airport",
+    "continent":"AS",
+    "iso_country":"LK",
+    "iso_region":"LK-1",
+    "municipality":"Colombo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.844002,11.5466,0 ]
+    },
+    "properties": {
+    "id":26475,
+    "ident":"VDPP",
+    "type":"large_airport",
+    "name":"Phnom Penh International Airport",
+    "continent":"AS",
+    "iso_country":"KH",
+    "iso_region":"KH-12",
+    "municipality":"Phnom Penh (Pou Senchey)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.813044,13.41155,0 ]
+    },
+    "properties": {
+    "id":26476,
+    "ident":"VDSR",
+    "type":"large_airport",
+    "name":"Siem Reap International Airport",
+    "continent":"AS",
+    "iso_country":"KH",
+    "iso_region":"KH-17",
+    "municipality":"Siem Reap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.44670105,22.65469933,0 ]
+    },
+    "properties": {
+    "id":26496,
+    "ident":"VECC",
+    "type":"large_airport",
+    "name":"Netaji Subhash Chandra Bose International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-WB",
+    "municipality":"Kolkata"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.397783,23.843347,0 ]
+    },
+    "properties": {
+    "id":26534,
+    "ident":"VGZR",
+    "type":"large_airport",
+    "name":"Hazrat Shahjalal International Airport",
+    "continent":"AS",
+    "iso_country":"BD",
+    "iso_region":"BD-3",
+    "municipality":"Dhaka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.915001,22.308901,0 ]
+    },
+    "properties": {
+    "id":26535,
+    "ident":"VHHH",
+    "type":"large_airport",
+    "name":"Hong Kong International Airport",
+    "continent":"AS",
+    "iso_country":"HK",
+    "iso_region":"HK-NT",
+    "municipality":"Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.09519,28.55563,0 ]
+    },
+    "properties": {
+    "id":26555,
+    "ident":"VIDP",
+    "type":"large_airport",
+    "name":"Indira Gandhi International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-DL",
+    "municipality":"New Delhi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.592003,22.149599,0 ]
+    },
+    "properties": {
+    "id":26589,
+    "ident":"VMMC",
+    "type":"large_airport",
+    "name":"Macau International Airport",
+    "continent":"AS",
+    "iso_country":"MO",
+    "iso_region":"MO-CAR",
+    "municipality":"Nossa Senhora do Carmo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.3591,27.6966,0 ]
+    },
+    "properties": {
+    "id":26596,
+    "ident":"VNKT",
+    "type":"large_airport",
+    "name":"Tribhuvan International Airport",
+    "continent":"AS",
+    "iso_country":"NP",
+    "iso_region":"NP-P3",
+    "municipality":"Kathmandu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.401901,10.152,0 ]
+    },
+    "properties": {
+    "id":26609,
+    "ident":"VOCI",
+    "type":"large_airport",
+    "name":"Cochin International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-KL",
+    "municipality":"Kochi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.169296,12.990005,0 ]
+    },
+    "properties": {
+    "id":26618,
+    "ident":"VOMM",
+    "type":"large_airport",
+    "name":"Chennai International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-TN",
+    "municipality":"Chennai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.92009735,8.48211956,0 ]
+    },
+    "properties": {
+    "id":26629,
+    "ident":"VOTV",
+    "type":"large_airport",
+    "name":"Trivandrum International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-KL",
+    "municipality":"Thiruvananthapuram"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.52909851,4.191830158,0 ]
+    },
+    "properties": {
+    "id":26636,
+    "ident":"VRMM",
+    "type":"large_airport",
+    "name":"Malé International Airport",
+    "continent":"AS",
+    "iso_country":"MV",
+    "iso_region":"MV-MLE",
+    "municipality":"Malé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.6070023,13.91259956,0 ]
+    },
+    "properties": {
+    "id":26638,
+    "ident":"VTBD",
+    "type":"large_airport",
+    "name":"Don Mueang International Airport",
+    "continent":"AS",
+    "iso_country":"TH",
+    "iso_region":"TH-10",
+    "municipality":"Bangkok"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.96260071,18.76679993,0 ]
+    },
+    "properties": {
+    "id":26647,
+    "ident":"VTCC",
+    "type":"large_airport",
+    "name":"Chiang Mai International Airport",
+    "continent":"AS",
+    "iso_country":"TH",
+    "iso_region":"TH-50",
+    "municipality":"Chiang Mai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.316902,8.1132,0 ]
+    },
+    "properties": {
+    "id":26674,
+    "ident":"VTSP",
+    "type":"large_airport",
+    "name":"Phuket International Airport",
+    "continent":"AS",
+    "iso_country":"TH",
+    "iso_region":"TH-83",
+    "municipality":"Phuket"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.806999,21.221201,0 ]
+    },
+    "properties": {
+    "id":26700,
+    "ident":"VVNB",
+    "type":"large_airport",
+    "name":"Noi Bai International Airport",
+    "continent":"AS",
+    "iso_country":"VN",
+    "iso_region":"VN-RRD",
+    "municipality":"Hanoi (Soc Son)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.652,10.8188,0 ]
+    },
+    "properties": {
+    "id":26708,
+    "ident":"VVTS",
+    "type":"large_airport",
+    "name":"Tan Son Nhat International Airport",
+    "continent":"AS",
+    "iso_country":"VN",
+    "iso_region":"VN-SE",
+    "municipality":"Ho Chi Minh City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.97789764,21.70219994,0 ]
+    },
+    "properties": {
+    "id":26727,
+    "ident":"VYMD",
+    "type":"large_airport",
+    "name":"Mandalay International Airport",
+    "continent":"AS",
+    "iso_country":"MM",
+    "iso_region":"MM-04",
+    "municipality":"Mandalay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.1332016,16.90730095,0 ]
+    },
+    "properties": {
+    "id":26744,
+    "ident":"VYYY",
+    "type":"large_airport",
+    "name":"Yangon International Airport",
+    "continent":"AS",
+    "iso_country":"MM",
+    "iso_region":"MM-06",
+    "municipality":"Yangon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.554001,-5.06163,0 ]
+    },
+    "properties": {
+    "id":26745,
+    "ident":"WAAA",
+    "type":"large_airport",
+    "name":"Hasanuddin International Airport",
+    "continent":"AS",
+    "iso_country":"ID",
+    "iso_region":"ID-SN",
+    "municipality":"Ujung Pandang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.167,-8.74817,0 ]
+    },
+    "properties": {
+    "id":26751,
+    "ident":"WADD",
+    "type":"large_airport",
+    "name":"Ngurah Rai (Bali) International Airport",
+    "continent":"AS",
+    "iso_country":"ID",
+    "iso_region":"ID-BA",
+    "municipality":"Denpasar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.519857,-2.579627,0 ]
+    },
+    "properties": {
+    "id":26755,
+    "ident":"WAJJ",
+    "type":"large_airport",
+    "name":"Dortheys Hiyo Eluay International Airport",
+    "continent":"AS",
+    "iso_country":"ID",
+    "iso_region":"ID-PA",
+    "municipality":"Sentani"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.89452,-1.268342,0 ]
+    },
+    "properties": {
+    "id":26760,
+    "ident":"WALL",
+    "type":"large_airport",
+    "name":"Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
+    "continent":"AS",
+    "iso_country":"ID",
+    "iso_region":"ID-KI",
+    "municipality":"Balikpapan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.787003,-7.37983,0 ]
+    },
+    "properties": {
+    "id":26789,
+    "ident":"WARR",
+    "type":"large_airport",
+    "name":"Juanda International Airport",
+    "continent":"AS",
+    "iso_country":"ID",
+    "iso_region":"ID-JI",
+    "municipality":"Surabaya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.928001,4.9442,0 ]
+    },
+    "properties": {
+    "id":26819,
+    "ident":"WBSB",
+    "type":"large_airport",
+    "name":"Brunei International Airport",
+    "continent":"AS",
+    "iso_country":"BN",
+    "iso_region":"BN-BM",
+    "municipality":"Bandar Seri Begawan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.6559982,-6.12556982,0 ]
+    },
+    "properties": {
+    "id":26835,
+    "ident":"WIII",
+    "type":"large_airport",
+    "name":"Soekarno-Hatta International Airport",
+    "continent":"AS",
+    "iso_country":"ID",
+    "iso_region":"ID-BT",
+    "municipality":"Jakarta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.709999,2.74558,0 ]
+    },
+    "properties": {
+    "id":26874,
+    "ident":"WMKK",
+    "type":"large_airport",
+    "name":"Kuala Lumpur International Airport",
+    "continent":"AS",
+    "iso_country":"MY",
+    "iso_region":"MY-10",
+    "municipality":"Sepang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.994003,1.35019,0 ]
+    },
+    "properties": {
+    "id":26887,
+    "ident":"WSSS",
+    "type":"large_airport",
+    "name":"Singapore Changi Airport",
+    "continent":"AS",
+    "iso_country":"SG",
+    "iso_region":"SG-04",
+    "municipality":"Singapore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.1170044,-27.38419914,0 ]
+    },
+    "properties": {
+    "id":26901,
+    "ident":"YBBN",
+    "type":"large_airport",
+    "name":"Brisbane International Airport",
+    "continent":"OC",
+    "iso_country":"AU",
+    "iso_region":"AU-QLD",
+    "municipality":"Brisbane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.843002,-37.673302,0 ]
+    },
+    "properties": {
+    "id":27066,
+    "ident":"YMML",
+    "type":"large_airport",
+    "name":"Melbourne International Airport",
+    "continent":"OC",
+    "iso_country":"AU",
+    "iso_region":"AU-VIC",
+    "municipality":"Melbourne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.533393,-34.947512,0 ]
+    },
+    "properties": {
+    "id":27096,
+    "ident":"YPAD",
+    "type":"large_airport",
+    "name":"Adelaide International Airport",
+    "continent":"OC",
+    "iso_country":"AU",
+    "iso_region":"AU-SA",
+    "municipality":"Adelaide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.88185,-12.41497,0 ]
+    },
+    "properties": {
+    "id":27101,
+    "ident":"YPDN",
+    "type":"large_airport",
+    "name":"Darwin International Airport / RAAF Darwin",
+    "continent":"OC",
+    "iso_country":"AU",
+    "iso_region":"AU-NT",
+    "municipality":"Darwin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9670029,-31.94029999,0 ]
+    },
+    "properties": {
+    "id":27119,
+    "ident":"YPPH",
+    "type":"large_airport",
+    "name":"Perth International Airport",
+    "continent":"OC",
+    "iso_country":"AU",
+    "iso_region":"AU-WA",
+    "municipality":"Perth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.177002,-33.94609833,0 ]
+    },
+    "properties": {
+    "id":27145,
+    "ident":"YSSY",
+    "type":"large_airport",
+    "name":"Sydney Kingsford Smith International Airport",
+    "continent":"OC",
+    "iso_country":"AU",
+    "iso_region":"AU-NSW",
+    "municipality":"Sydney"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5849991,40.08010101,0 ]
+    },
+    "properties": {
+    "id":27188,
+    "ident":"ZBAA",
+    "type":"large_airport",
+    "name":"Beijing Capital International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-11",
+    "municipality":"Beijing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.824598,40.849658,0 ]
+    },
+    "properties": {
+    "id":27189,
+    "ident":"ZBHH",
+    "type":"large_airport",
+    "name":"Hohhot Baita International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-15",
+    "municipality":"Hohhot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.3460007,39.12440109,0 ]
+    },
+    "properties": {
+    "id":27192,
+    "ident":"ZBTJ",
+    "type":"large_airport",
+    "name":"Tianjin Binhai International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-12",
+    "municipality":"Tianjin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.627998,37.746899,0 ]
+    },
+    "properties": {
+    "id":27193,
+    "ident":"ZBYN",
+    "type":"large_airport",
+    "name":"Taiyuan Wusu Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-14",
+    "municipality":"Taiyuan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.299004,23.392401,0 ]
+    },
+    "properties": {
+    "id":27194,
+    "ident":"ZGGG",
+    "type":"large_airport",
+    "name":"Guangzhou Baiyun International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-44",
+    "municipality":"Guangzhou (Huadu)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.220001,28.189199,0 ]
+    },
+    "properties": {
+    "id":27195,
+    "ident":"ZGHA",
+    "type":"large_airport",
+    "name":"Changsha Huanghua International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-43",
+    "municipality":"Changsha (Changsha)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.039553,25.219828,0 ]
+    },
+    "properties": {
+    "id":27196,
+    "ident":"ZGKL",
+    "type":"large_airport",
+    "name":"Guilin Liangjiang International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-45",
+    "municipality":"Guilin (Lingui)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.171997,22.608299,0 ]
+    },
+    "properties": {
+    "id":27197,
+    "ident":"ZGNN",
+    "type":"large_airport",
+    "name":"Nanning Wuxu Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-45",
+    "municipality":"Nanning (Jiangnan)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.810997,22.639299,0 ]
+    },
+    "properties": {
+    "id":27198,
+    "ident":"ZGSZ",
+    "type":"large_airport",
+    "name":"Shenzhen Bao'an International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-44",
+    "municipality":"Shenzhen (Bao'an)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.849165,34.526497,0 ]
+    },
+    "properties": {
+    "id":27199,
+    "ident":"ZHCC",
+    "type":"large_airport",
+    "name":"Zhengzhou Xinzheng International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-41",
+    "municipality":"Zhengzhou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.213723,30.774798,0 ]
+    },
+    "properties": {
+    "id":27200,
+    "ident":"ZHHH",
+    "type":"large_airport",
+    "name":"Wuhan Tianhe International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-42",
+    "municipality":"Wuhan (Huangpi)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.459,19.9349,0 ]
+    },
+    "properties": {
+    "id":27201,
+    "ident":"ZJHK",
+    "type":"large_airport",
+    "name":"Haikou Meilan International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-46",
+    "municipality":"Haikou (Meilan)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.412003,18.3029,0 ]
+    },
+    "properties": {
+    "id":27202,
+    "ident":"ZJSY",
+    "type":"large_airport",
+    "name":"Sanya Phoenix International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-46",
+    "municipality":"Sanya (Tianya)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.620003,36.515202,0 ]
+    },
+    "properties": {
+    "id":27204,
+    "ident":"ZLLL",
+    "type":"large_airport",
+    "name":"Lanzhou Zhongchuan International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-62",
+    "municipality":"Lanzhou (Yongdeng)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.751999,34.447102,0 ]
+    },
+    "properties": {
+    "id":27205,
+    "ident":"ZLXY",
+    "type":"large_airport",
+    "name":"Xi'an Xianyang International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-61",
+    "municipality":"Xianyang (Weicheng)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.936743,25.110313,0 ]
+    },
+    "properties": {
+    "id":27214,
+    "ident":"ZPPP",
+    "type":"large_airport",
+    "name":"Kunming Changshui International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-53",
+    "municipality":"Kunming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.1279984,24.54400063,0 ]
+    },
+    "properties": {
+    "id":27215,
+    "ident":"ZSAM",
+    "type":"large_airport",
+    "name":"Xiamen Gaoqi International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-35",
+    "municipality":"Xiamen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90271,28.864815,0 ]
+    },
+    "properties": {
+    "id":27216,
+    "ident":"ZSCN",
+    "type":"large_airport",
+    "name":"Nanchang Changbei International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-36",
+    "municipality":"Nanchang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.66318,25.934669,0 ]
+    },
+    "properties": {
+    "id":27217,
+    "ident":"ZSFZ",
+    "type":"large_airport",
+    "name":"Fuzhou Changle International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-35",
+    "municipality":"Fuzhou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.428865,30.23609,0 ]
+    },
+    "properties": {
+    "id":27218,
+    "ident":"ZSHC",
+    "type":"large_airport",
+    "name":"Hangzhou Xiaoshan International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-33",
+    "municipality":"Hangzhou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.216003,36.857201,0 ]
+    },
+    "properties": {
+    "id":27219,
+    "ident":"ZSJN",
+    "type":"large_airport",
+    "name":"Jinan Yaoqiang International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-37",
+    "municipality":"Jinan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.461998,29.82670021,0 ]
+    },
+    "properties": {
+    "id":27220,
+    "ident":"ZSNB",
+    "type":"large_airport",
+    "name":"Ningbo Lishe International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-33",
+    "municipality":"Ningbo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.865949,31.735032,0 ]
+    },
+    "properties": {
+    "id":27221,
+    "ident":"ZSNJ",
+    "type":"large_airport",
+    "name":"Nanjing Lukou International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-32",
+    "municipality":"Nanjing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.805,31.1434,0 ]
+    },
+    "properties": {
+    "id":27223,
+    "ident":"ZSPD",
+    "type":"large_airport",
+    "name":"Shanghai Pudong International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-31",
+    "municipality":"Shanghai (Pudong)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.33426,31.198104,0 ]
+    },
+    "properties": {
+    "id":27225,
+    "ident":"ZSSS",
+    "type":"large_airport",
+    "name":"Shanghai Hongqiao International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-31",
+    "municipality":"Shanghai (Minhang)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.651895,29.712254,0 ]
+    },
+    "properties": {
+    "id":27228,
+    "ident":"ZUCK",
+    "type":"large_airport",
+    "name":"Chongqing Jiangbei International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-50",
+    "municipality":"Chongqing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.803331,26.541466,0 ]
+    },
+    "properties": {
+    "id":27229,
+    "ident":"ZUGY",
+    "type":"large_airport",
+    "name":"Guiyang Longdongbao International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-52",
+    "municipality":"Guiyang (Nanming)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.945966,30.558257,0 ]
+    },
+    "properties": {
+    "id":27230,
+    "ident":"ZUUU",
+    "type":"large_airport",
+    "name":"Chengdu Shuangliu International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-51",
+    "municipality":"Chengdu (Shuangliu)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.47419739,43.90710068,0 ]
+    },
+    "properties": {
+    "id":27236,
+    "ident":"ZWWW",
+    "type":"large_airport",
+    "name":"Ürümqi Diwopu International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-65",
+    "municipality":"Ürümqi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.684998,43.996201,0 ]
+    },
+    "properties": {
+    "id":27237,
+    "ident":"ZYCC",
+    "type":"large_airport",
+    "name":"Changchun Longjia International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-22",
+    "municipality":"Changchun"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.25,45.623402,0 ]
+    },
+    "properties": {
+    "id":27238,
+    "ident":"ZYHB",
+    "type":"large_airport",
+    "name":"Harbin Taiping International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-23",
+    "municipality":"Harbin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.539001,38.965698,0 ]
+    },
+    "properties": {
+    "id":27242,
+    "ident":"ZYTL",
+    "type":"large_airport",
+    "name":"Dalian Zhoushuizi International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-21",
+    "municipality":"Ganjingzi, Dalian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.483002,41.639801,0 ]
+    },
+    "properties": {
+    "id":27243,
+    "ident":"ZYTX",
+    "type":"large_airport",
+    "name":"Shenyang Taoxian International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-21",
+    "municipality":"Hunnan, Shenyang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.7470016,13.68109989,0 ]
+    },
+    "properties": {
+    "id":28118,
+    "ident":"VTBS",
+    "type":"large_airport",
+    "name":"Suvarnabhumi Airport",
+    "continent":"AS",
+    "iso_country":"TH",
+    "iso_region":"TH-10",
+    "municipality":"Bangkok"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.18029976,35.33969879,0 ]
+    },
+    "properties": {
+    "id":4258,
+    "ident":"LGIR",
+    "type":"large_airport",
+    "name":"Heraklion International Nikos Kazantzakis Airport",
+    "continent":"EU",
+    "iso_country":"GR",
+    "iso_region":"GR-M",
+    "municipality":"Heraklion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.97089958,40.5196991,0 ]
+    },
+    "properties": {
+    "id":4293,
+    "ident":"LGTS",
+    "type":"large_airport",
+    "name":"Thessaloniki Macedonia International Airport",
+    "continent":"EU",
+    "iso_country":"GR",
+    "iso_region":"GR-B",
+    "municipality":"Thessaloniki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.246,-26.1392,0 ]
+    },
+    "properties": {
+    "id":31055,
+    "ident":"FAOR",
+    "type":"large_airport",
+    "name":"OR Tambo International Airport",
+    "continent":"AF",
+    "iso_country":"ZA",
+    "iso_region":"ZA-GT",
+    "municipality":"Johannesburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0145,19.7458,0 ]
+    },
+    "properties": {
+    "id":31923,
+    "ident":"MMSM",
+    "type":"large_airport",
+    "name":"General Felipe Ángeles International Airport",
+    "continent":"NA",
+    "iso_country":"MX",
+    "iso_region":"MX-MEX",
+    "municipality":"Mexico City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.851997,27.912201,0 ]
+    },
+    "properties": {
+    "id":32672,
+    "ident":"ZSWZ",
+    "type":"large_airport",
+    "name":"Wenzhou Longwan International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-33",
+    "municipality":"Wenzhou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.429855,17.231318,0 ]
+    },
+    "properties": {
+    "id":35141,
+    "ident":"VOHS",
+    "type":"large_airport",
+    "name":"Rajiv Gandhi International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-TG",
+    "municipality":"Hyderabad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.706299,13.1979,0 ]
+    },
+    "properties": {
+    "id":35145,
+    "ident":"VOBL",
+    "type":"large_airport",
+    "name":"Kempegowda International Airport",
+    "continent":"AS",
+    "iso_country":"IN",
+    "iso_region":"IN-KA",
+    "municipality":"Bangalore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.445,52.634998,0 ]
+    },
+    "properties": {
+    "id":41136,
+    "ident":"RU-0016",
+    "type":"large_airport",
+    "name":"Lipetsk Air Base",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-LIP",
+    "municipality":"Lipetsk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.150002,55.553299,0 ]
+    },
+    "properties": {
+    "id":42967,
+    "ident":"UUBW",
+    "type":"large_airport",
+    "name":"Zhukovsky International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-MOS",
+    "municipality":"Moscow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.608056,25.273056,0 ]
+    },
+    "properties": {
+    "id":44686,
+    "ident":"OTHH",
+    "type":"large_airport",
+    "name":"Hamad International Airport",
+    "continent":"AS",
+    "iso_country":"QA",
+    "iso_region":"QA-DA",
+    "municipality":"Doha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.634167,19.501944,0 ]
+    },
+    "properties": {
+    "id":299738,
+    "ident":"OM-0003",
+    "type":"large_airport",
+    "name":"Duqm International Airport",
+    "continent":"AS",
+    "iso_country":"OM",
+    "iso_region":"OM-WU",
+    "municipality":"Duqm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.161389,24.896356,0 ]
+    },
+    "properties": {
+    "id":300320,
+    "ident":"OMDW",
+    "type":"large_airport",
+    "name":"Al Maktoum International Airport",
+    "continent":"AS",
+    "iso_country":"AE",
+    "iso_region":"AE-DU",
+    "municipality":"Jebel Ali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.11972222,-29.61444444,0 ]
+    },
+    "properties": {
+    "id":300795,
+    "ident":"FALE",
+    "type":"large_airport",
+    "name":"King Shaka International Airport",
+    "continent":"AF",
+    "iso_country":"ZA",
+    "iso_region":"ZA-NL",
+    "municipality":"Durban"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.500672,52.362247,0 ]
+    },
+    "properties": {
+    "id":301881,
+    "ident":"EDDB",
+    "type":"large_airport",
+    "name":"Berlin Brandenburg Airport",
+    "continent":"EU",
+    "iso_country":"DE",
+    "iso_region":"DE-BR",
+    "municipality":"Berlin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.382814,34.991406,0 ]
+    },
+    "properties": {
+    "id":302303,
+    "ident":"RKJB",
+    "type":"large_airport",
+    "name":"Muan International Airport",
+    "continent":"AS",
+    "iso_country":"KR",
+    "iso_region":"KR-46",
+    "municipality":"Piseo-ri (Muan)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.716944,-26.358611,0 ]
+    },
+    "properties": {
+    "id":308033,
+    "ident":"FDSK",
+    "type":"large_airport",
+    "name":"King Mswati III International Airport",
+    "continent":"AF",
+    "iso_country":"SZ",
+    "iso_region":"SZ-LU",
+    "municipality":"Mpaka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.354306,-0.125399,0 ]
+    },
+    "properties": {
+    "id":308273,
+    "ident":"SEQM",
+    "type":"large_airport",
+    "name":"Mariscal Sucre International Airport",
+    "continent":"SA",
+    "iso_country":"EC",
+    "iso_region":"EC-P",
+    "municipality":"Quito"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.870566,3.637847,0 ]
+    },
+    "properties": {
+    "id":309577,
+    "ident":"WIMM",
+    "type":"large_airport",
+    "name":"Kualanamu International Airport",
+    "continent":"AS",
+    "iso_country":"ID",
+    "iso_region":"ID-SU",
+    "municipality":"Medan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.124128,6.284467,0 ]
+    },
+    "properties": {
+    "id":309579,
+    "ident":"VCRI",
+    "type":"large_airport",
+    "name":"Mattala Rajapaksa International Airport",
+    "continent":"AS",
+    "iso_country":"LK",
+    "iso_region":"LK-3",
+    "municipality":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.741951,41.261297,0 ]
+    },
+    "properties": {
+    "id":317457,
+    "ident":"LTFM",
+    "type":"large_airport",
+    "name":"İstanbul Airport",
+    "continent":"EU",
+    "iso_country":"TR",
+    "iso_region":"TR-34",
+    "municipality":"Arnavutköy, Istanbul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.9697222,18.31,0 ]
+    },
+    "properties": {
+    "id":323315,
+    "ident":"GQNO",
+    "type":"large_airport",
+    "name":"Nouakchott–Oumtounsy International Airport",
+    "continent":"AF",
+    "iso_country":"MR",
+    "iso_region":"MR-NKC",
+    "municipality":"Nouakchott"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.073333,14.67,0 ]
+    },
+    "properties": {
+    "id":325736,
+    "ident":"GOBD",
+    "type":"large_airport",
+    "name":"Blaise Diagne International Airport",
+    "continent":"AF",
+    "iso_country":"SN",
+    "iso_region":"SN-DK",
+    "municipality":"Dakar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.924722,47.493888,0 ]
+    },
+    "properties": {
+    "id":326363,
+    "ident":"URRP",
+    "type":"large_airport",
+    "name":"Platov International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-ROS",
+    "municipality":"Rostov-on-Don"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.014116,29.727009,0 ]
+    },
+    "properties": {
+    "id":330388,
+    "ident":"LLER",
+    "type":"large_airport",
+    "name":"Ramon International Airport",
+    "continent":"AS",
+    "iso_country":"IL",
+    "iso_region":"IL-D",
+    "municipality":"Eilat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.41092,39.509945,0 ]
+    },
+    "properties": {
+    "id":330820,
+    "ident":"ZBAD",
+    "type":"large_airport",
+    "name":"Beijing Daxing International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-11",
+    "municipality":"Beijing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.978124,37.659724,0 ]
+    },
+    "properties": {
+    "id":332096,
+    "ident":"YNT",
+    "type":"large_airport",
+    "name":"Yantai Penglai International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-37",
+    "municipality":"Yantai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.82566,33.549,0 ]
+    },
+    "properties": {
+    "id":333692,
+    "ident":"OPIS",
+    "type":"large_airport",
+    "name":"Islamabad International Airport",
+    "continent":"AS",
+    "iso_country":"PK",
+    "iso_region":"PK-PB",
+    "municipality":"Attock"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.819833,47.646916,0 ]
+    },
+    "properties": {
+    "id":335326,
+    "ident":"ZMCK",
+    "type":"large_airport",
+    "name":"Ulaanbaatar Chinggis Khaan International Airport",
+    "continent":"AS",
+    "iso_country":"MN",
+    "iso_region":"MN-047",
+    "municipality":"Ulaanbaatar (Sergelen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.549881,43.313126,0 ]
+    },
+    "properties": {
+    "id":337747,
+    "ident":"UAIT",
+    "type":"large_airport",
+    "name":"Hazrat Sultan International Airport",
+    "continent":"AS",
+    "iso_country":"KZ",
+    "iso_region":"KZ-YUZ",
+    "municipality":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.171111,51.712778,0 ]
+    },
+    "properties": {
+    "id":339001,
+    "ident":"UWSG",
+    "type":"large_airport",
+    "name":"Gagarin International Airport",
+    "continent":"EU",
+    "iso_country":"RU",
+    "iso_region":"RU-SAR",
+    "municipality":"Saratov"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.441284,30.31252,0 ]
+    },
+    "properties": {
+    "id":342095,
+    "ident":"ZUTF",
+    "type":"large_airport",
+    "name":"Chengdu Tianfu International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-51",
+    "municipality":"Chengdu (Jianyang)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.088171,36.361953,0 ]
+    },
+    "properties": {
+    "id":342096,
+    "ident":"TAO",
+    "type":"large_airport",
+    "name":"Qingdao Jiaodong International Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-37",
+    "municipality":"Jiaozhou, Qingdao"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.03926,30.341178,0 ]
+    },
+    "properties": {
+    "id":347108,
+    "ident":"EHU",
+    "type":"large_airport",
+    "name":"Ezhou Huahu Airport",
+    "continent":"AS",
+    "iso_country":"CN",
+    "iso_region":"CN-13",
+    "municipality":"Ezhou"
+    }
+  }
+]
+}
